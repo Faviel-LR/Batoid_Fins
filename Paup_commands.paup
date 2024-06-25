@@ -1,0 +1,31 @@
+cd ~/Phylo_analysis;
+
+log file = PAUP.log;
+
+Set maxtrees=1000 increase=auto; 
+
+execute Bat_paup.nex;
+
+Delete Pseudorhinobatos Rtenuirostris Iansan Tethybatis Brochiraja Eorhinobatos Ischyrhiza; 
+
+EXCLUDE 2 3 4 5 9 74 87;
+
+OUTGROUP Doliodus;
+
+ShowMatrix CmCStatus = yes;
+
+Pset GUNINF = Exclude;
+
+Lset nthreads=2 rates = gamma;
+
+Set criterion = likelihood;
+
+lscores all / sorttrees = yes SCOREFILE = lscore4.log;
+
+savetrees file = ML_spehnodus.nex format = nexus brLens=yes;
+
+showtrees ***;
+
+savetree file=bestml.tre2 format = nexus BRLENS = yes from = *** to = ****;
+
+
