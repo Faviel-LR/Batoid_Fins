@@ -1,0 +1,363 @@
+ID_Spec,Catalogue Number,AccName,TreeName2,Order,Family,Genus,SO,EF,SpeLab,DepthMin,DepthMax,DepthAve,IUCN,DepthCat3,Mov
+'Aetobatus narinari CAS-ICH 68154.jpg',CAS-ICH 68154,Aetobatus_narinari,Aetobatus_narinari,Myliobatiformes,Myliobatidae,Aetobatus,Bat,Extant,Aetob_nar,1,80,40.5,EN,Shelf,Oscil
+'Aetobatus narinari USNMRAD 205414.jpg',USNM 205414,Aetobatus_narinari,Aetobatus_narinari,Myliobatiformes,Myliobatidae,Aetobatus,Bat,Extant,Aetob_nar,1,80,40.5,EN,Shelf,Oscil
+'Aetomylaeus asperrimus NCat01.jpg',CAS-SU(ICH) 11895,Aetomylaeus_asperrimus,Pteromylaeus_asperrimus,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_asp,1,50,25.5,DD,Shelf,Oscil
+'Aetomylaeus maculatus USNMRAD 222702.jpg',USNM 222702,Aetomylaeus_maculatus,Aetomylaeus_maculatus,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_mac,1,18,9.5,EN,Reef,Oscil
+'Aetomylaeus milvus USNMRAD 110911-001.jpg',USNM RAD 110911,Aetomylaeus_milvus,Aetomylaeus_milvus,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_mil,1,50,25.5,EN,Shelf,Oscil
+'Aetomylaeus nichofii CAS-ICH 36048.jpg',CAS-ICH 36048,Aetomylaeus_nichofii,Aetomylaeus_nichofii,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_nic,1,100,50.5,VU,Shelf,Oscil
+'Aetomylaeus wafickii CAS-ICH 246088.jpg',CAS-ICH 246088,Aetomylaeus_wafickii,Aetomylaeus_wafickii,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_waf,1,17,9,DD,Shelf,Oscil
+'Amblyraja georgiana USNMRAD 110895-004.jpg',USNM RAD 110895,Amblyraja_georgiana,Amblyraja_georgiana,Rajiformes,Rajidae,Amblyraja,Bat,Extant,Ambly_geo,20,350,185,DD,Deep,Undul
+'Amblyraja georgiana USNMRAD 110895-005.jpg',USNM RAD 110895,Amblyraja_georgiana,Amblyraja_georgiana,Rajiformes,Rajidae,Amblyraja,Bat,Extant,Ambly_geo,20,350,185,DD,Deep,Undul
+'Amblyraja radiata MCZIch-98243.jpg',MCZ Ichthyology 98243,Amblyraja_radiata,Amblyraja_radiata,Rajiformes,Rajidae,Amblyraja,Bat,Extant,Ambly_rad,5,1540,772.5,VU,Deep,Undul
+'Amblyraja radiata MCZIchS-870.jpg',MCZ Ichthyology S-870,Amblyraja_radiata,Amblyraja_radiata,Rajiformes,Rajidae,Amblyraja,Bat,Extant,Ambly_rad,5,1540,772.5,VU,Deep,Undul
+'Amblyraja radiata USNMRAD 386063.jpg',USNM 386063,Amblyraja_radiata,Amblyraja_radiata,Rajiformes,Rajidae,Amblyraja,Bat,Extant,Ambly_rad,5,1540,772.5,VU,Deep,Undul
+'Anacanthobatis (Springeria) folirostris MCZIch 37160.jpg',MCZ Ichthyology 37160,Springeria_folirostris,Springeria_folirostris,Rajiformes,Anacanthobatidae,Springeria,Bat,Extant,Sprin_fol,425,472,448.5,LC,Deep,Undul
+'Anacanthobatis borneensis BMNH 19651291.jpg',NHMUK ZOO 1965.1.29.1,Sinobatis_borneensis,Sinobatis_borneensis,Rajiformes,Anacanthobatidae,Sinobatis,Bat,Extant,Sinob_bor,800,1100,950,LC,Deep,Undul
+'Anacanthobatis longirostris USNMRAD109878-001.jpg',USNM RAD 109878,Springeria_longirostris,Springeria_longirostis,Rajiformes,Anacanthobatidae,Springeria,Bat,Extant,Sprin_lon,530,1052,791,LC,Deep,Undul
+'Anoxypristis cuspidata USNMRAD 110884-001.jpg',USNM RAD 110884,Anoxypristis_cuspidata,Anoxypristis_cuspidata,Rhinopristiformes,Pristidae,Anoxypristis,Bat,Extant,Anoxy_cus,0,40,20,EN,Shelf,AxUnd
+'Atlantoraja castelnaui MNHN A-8007.jpg',MNHN-IC-A-8007 ,Atlantoraja_castelnaui,Atlantoraja_castelnaui,Rajiformes,Arhynchobatidae,Atlantoraja,Bat,Extant,Atlan_cas,10,100,55,CR,Shelf,Undul
+'Atlantoraja castelnaui USNMRAD 370549.jpg',USNM 370549,Atlantoraja_castelnaui,Atlantoraja_castelnaui,Rajiformes,Arhynchobatidae,Atlantoraja,Bat,Extant,Atlan_cas,10,100,55,CR,Shelf,Undul
+'Atlantoraja platana USNMRAD 370553.jpg',USNM 370553,Atlantoraja_platana,Atlantoraja_platana,Rajiformes,Arhynchobatidae,Atlantoraja,Bat,Extant,Atlan_pla,19,181,100,EN,Shelf,Undul
+'Bathyraja abyssicola CAS-ICH 38289.jpg',CAS-ICH 38289,Bathyraja_abyssicola,Bathyraja_abyssicola,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_aby,362,2910,1636,DD,Deep,Undul
+'Bathyraja aleutica CAS-ICH 232271-A.jpg',CAS-ICH 232271,Bathyraja_aleutica,Bathyraja_aleutica,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_ale,15,1602,808.5,LC,Deep,Undul
+'Bathyraja aleutica CAS-ICH 232271-B.jpg',CAS-ICH 232271,Bathyraja_aleutica,Bathyraja_aleutica,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_ale,15,1602,808.5,LC,Deep,Undul
+'Bathyraja interrupta USNMRAD 109882-001.jpg',USNM RAD 109882,Bathyraja_interrupta,Bathyraja_kincaidii,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_int,23,1500,761.5,LC,Deep,Undul
+'Bathyraja interrupta USNMRAD 109890-001.jpg',USNM RAD 109890,Bathyraja_interrupta,Bathyraja_kincaidii,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_int,23,1500,761.5,LC,Deep,Undul
+'Bathyraja interrupta USNMRAD 109894-002.jpg',USNM RAD 109894,Bathyraja_interrupta,Bathyraja_kincaidii,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_int,23,1500,761.5,LC,Deep,Undul
+'Bathyraja kincaidii USNMRAD 187626.jpg',USNM 187626,Bathyraja_kincaidii,Bathyraja_kincaidii,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_kin,119,1372,745.5,LC,Deep,Undul
+'Bathyraja maccaini USNMRAD 110898-001.jpg',USNM RAD 110898,Bathyraja_maccaini,Bathyraja_maccaini,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_mac,91,500,295.5,LC,Deep,Undul
+'Benthobatis marcida USNMRAD 110899-001_01.jpg',USNM RAD 110899,Benthobatis_marcida,Benthobatis_marcida,Torpediniformes,Narcinidae,Benthobatis,Bat,Extant,Benth_mar,200,923,561.5,LC,Deep,AxUnd
+'Benthobatis marcida USNMRAD 110899-001_02.jpg',USNM RAD 110899,Benthobatis_marcida,Benthobatis_marcida,Torpediniformes,Narcinidae,Benthobatis,Bat,Extant,Benth_mar,200,923,561.5,LC,Deep,AxUnd
+'Breviraja aleutica CAS-ICH 232257.jpg',CAS-ICH 232257,Bathyraja_aleutica,Bathyraja_aleutica,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_ale,15,1602,808.5,LC,Deep,Undul
+'Breviraja claramaculata USNMRAD 109898-003.jpg',USNM RAD 109898,Breviraja_claramaculata,Breviraja_claramaculata,Rajiformes,Rajidae,Breviraja,Bat,Extant,Brevi_cla,293,896,594.5,LC,Deep,Undul
+'Breviraja colesi MCZIch 36374.jpg',MCZ Ichthyology 36374,Breviraja_colesi,Breviraja_colesi,Rajiformes,Rajidae,Breviraja,Bat,Extant,Brevi_col,366,522,444,LC,Deep,Undul
+'Breviraja ishiyama USNMRAD 109922-001.jpg',USNM RAD 109922,Fenestraja_ishiyamai,Fenestraja_ishiyamai,Rajiformes,Rajidae,Fenestraja,Bat,Extant,Fenes_ish,400,1000,700,LC,Deep,Undul
+'Breviraja sinusmexicanus USNMRAD 109900-001.jpg',USNM RAD 109900,Fenestraja_sinusmexicanus,Fenestraja_sinusmexicanus,Rajiformes,Rajidae,Fenestraja,Bat,Extant,Fenes_sin,56,1096,576,LC,Deep,Undul
+'Breviraja sinusmexicanus USNMRAD 109901-001_a.jpg',USNM RAD 109901,Fenestraja_sinusmexicanus,Fenestraja_sinusmexicanus,Rajiformes,Rajidae,Fenestraja,Bat,Extant,Fenes_sin,56,1096,576,LC,Deep,Undul
+'Breviraja sinusmexicanus USNMRAD 109901-001_b.jpg',USNM RAD 109901,Fenestraja_sinusmexicanus,Fenestraja_sinusmexicanus,Rajiformes,Rajidae,Fenestraja,Bat,Extant,Fenes_sin,56,1096,576,LC,Deep,Undul
+'Breviraja sinusmexicanus USNMRAD 109902-001.jpg',USNM RAD 109902,Fenestraja_sinusmexicanus,Fenestraja_sinusmexicanus,Rajiformes,Rajidae,Fenestraja,Bat,Extant,Fenes_sin,56,1096,576,LC,Deep,Undul
+'Breviraja spinosa MCZIch 36373.jpg',MCZ Ichthyology 36373,Breviraja_spinosa,Breviraja_spinosa,Rajiformes,Rajidae,Breviraja,Bat,Extant,Brevi_spi,323,675,499,LC,Deep,Undul
+'Breviraja spinosa USNMRAD 109906-001.jpg',USNM RAD 109906,Breviraja_spinosa,Breviraja_spinosa,Rajiformes,Rajidae,Breviraja,Bat,Extant,Brevi_spi,323,675,499,LC,Deep,Undul
+'Cruriraja cadenati USNMRAD 109908-003.jpg',USNM RAD 109908,Cruriraja_cadenati,Cruriraja_cadenati,Rajiformes,Gurgesiellidae,Cruriraja,Bat,Extant,Cruri_cad,457,896,676.5,LC,Deep,Undul
+'Cruriraja poeyi USNMRAD 109909-001.jpg',USNM RAD 109909,Cruriraja_poeyi,Cruriraja_poeyi,Rajiformes,Gurgesiellidae,Cruriraja,Bat,Extant,Cruri_poe,385,870,627.5,LC,Deep,Undul
+'Cruriraja rugosa USNMRAD 222279.jpg',USNM 222279,Cruriraja_rugosa,Cruriraja_rugosa,Rajiformes,Gurgesiellidae,Cruriraja,Bat,Extant,Cruri_rug,366,1007,686.5,LC,Deep,Undul
+'Dactylobatus armatus USNMRAD 62914.jpg',USNM 62914,Dactylobatus_armatus,Dactylobatus_armatus,Rajiformes,Rajidae,Dactylobatus,Bat,Extant,Dacty_arm,300,900,600,LC,Deep,Undul
+'Dactylobatus armatus USNMRAD 62915.jpg',USNM 62915,Dactylobatus_armatus,Dactylobatus_armatus,Rajiformes,Rajidae,Dactylobatus,Bat,Extant,Dacty_arm,300,900,600,LC,Deep,Undul
+'Dactylobatus clarkii MCZIch 51069.jpg',MCZ Ichthyology 51069,Dactylobatus_clarkii,Dactylobatus_clarkii,Rajiformes,Rajidae,Dactylobatus,Bat,Extant,Dacty_cla,475,1000,737.5,LC,Deep,Undul
+'Dasyatis americana (Hypanus rudis) USNMRAD 109934-001.jpg',USNM RAD 109934,Hypanus_rudis,Dasyatis_rudis,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_rud,0,240,120,CR,Shelf,Undul
+'Dasyatis americana (Hypanus rudis) USNMRAD 109935-002.jpg',USNM RAD 109935,Hypanus_rudis,Dasyatis_rudis,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_rud,0,240,120,CR,Shelf,Undul
+'Dasyatis americana USNMRAD 109936-001.jpg',USNM RAD 109936,Hypanus_americanus,Dasyatis_americana,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_ama,0,53,26.5,NT,Reef,Undul
+'Dasyatis americana USNMRAD 109938-001.jpg',USNM RAD 109938 ,Hypanus_americanus,Dasyatis_americana,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_ama,0,53,26.5,NT,Reef,Undul
+'Dasyatis bennettii BMNH 195381013.jpg',NHMUK ZOO 1953.8.10.13,Hemitrygon_bennettii,Dasyatis_bennetti,Myliobatiformes,Dasyatidae,Hemitrygon,Bat,Extant,Hemit_ben,1,40,20.5,NE,Shelf,Undul
+'Dasyatis centroura MNHN 1989-1795.jpg',MNHN-IC-1989-1795 ,Bathytoshia_centroura,Dasyatis_centroura,Myliobatiformes,Dasyatidae,Bathytoshia,Bat,Extant,Btosh_cen,3,270,136.5,VU,Shelf,Undul
+'Dasyatis margarita NCat02.jpg',CAS-SU(ICH) 68915,Fontitrygon_margarita,Dasyatis_margarita,Myliobatiformes,Dasyatidae,Fontitrygon,Bat,Extant,Fonti_mar,1,60,30.5,VU,Shelf,Undul
+'Dasyatis margarita USNMRAD 109939-002.jpg',USNM RAD 109939 ,Fontitrygon_margarita,Dasyatis_margarita,Myliobatiformes,Dasyatidae,Fontitrygon,Bat,Extant,Fonti_mar,1,60,30.5,VU,Shelf,Undul
+'Dasyatis margarita USNMRAD 109939-003.jpg',USNM RAD 109939 ,Fontitrygon_margarita,Dasyatis_margarita,Myliobatiformes,Dasyatidae,Fontitrygon,Bat,Extant,Fonti_mar,1,60,30.5,VU,Shelf,Undul
+'Dasyatis margarita USNMRAD 222567.jpg',USNM 222567 ,Fontitrygon_margarita,Dasyatis_margarita,Myliobatiformes,Dasyatidae,Fontitrygon,Bat,Extant,Fonti_mar,1,60,30.5,VU,Shelf,Undul
+'Dasyatis margaritella USNMRAD 109940-002-A.jpg',USNM RAD 109940 ,Fontitrygon_margaritella,Dasyatis_margaritella,Myliobatiformes,Dasyatidae,Fontitrygon,Bat,Extant,Fonti_mla ,0,60,30,NT,Shelf,Undul
+'Dasyatis margaritella USNMRAD 109940-002-B.jpg',USNM RAD 109940 ,Fontitrygon_margaritella,Dasyatis_margaritella,Myliobatiformes,Dasyatidae,Fontitrygon,Bat,Extant,Fonti_mla ,0,60,30,NT,Shelf,Undul
+'Dasyatis sabina CAS-ICH 50885.jpg',CAS-ICH 50885,Hypanus_sabinus,Dasyatis_sabina,Myliobatiformes,Dasyatidae,Fontitrygon,Bat,Extant,Hypan_sab,2,25,13.5,LC,Shelf,Undul
+'Dasyatis schmardae BMNH 190443012.jpg',NHMUK ZOO 1904.4.30.12,Styracura_schmardae,Himantura_schmardae,Myliobatiformes,Potamotrygonidae,Styracura,Bat,Extant,Styra_sch,1,30,15.5,EN,Shelf,Undul
+'Dasyatis zugei MCZIchS 237.jpg',MCZ Ichthyology S-237,Telatrygon_zugei,Dasyatis_zugei,Myliobatiformes,Dasyatidae,Telatrygon,Bat,Extant,Telat_zug,0,100,50,VU,Shelf,Undul
+'Diplobatis pictus BMNH 19505154.jpg',NHMUK ZOO 1950.5.15.4,Diplobatis_picta,Diplobatis_pictus,Torpediniformes,Narcinidae,Diplobatis,Bat,Extant,Diplo_pic,0,91,45.5,VU,Shelf,AxUnd
+'Diplobatis pictus BMNH 1953364.jpg',NHMUK ZOO 1953.3.6.3-4,Diplobatis_picta,Diplobatis_pictus,Torpediniformes,Narcinidae,Diplobatis,Bat,Extant,Diplo_pic,0,91,45.5,VU,Shelf,AxUnd
+'Dipturus lamilai Ant CAS-ICH 242403.jpg',CAS-ICH 242403,Dipturus_lamillai,Dipturus_lamillai,Rajiformes,Rajidae,Dipturus,Bat,Extant,Diptu_lam,162,515,338.5,LC,Deep,Undul
+'Dipturus olseni USNMRAD 110896-002.jpg',USNM RAD 110896 ,Dipturus_olseni,Dipturus_olseni,Rajiformes,Rajidae,Dipturus,Bat,Extant,Diptu_ols,55,385,220,LC,Deep,Undul
+'Disceus thayeri MCZIchS 297.jpg',MCZ Ichthyology S-297,Paratrygon_aiereba,Paratrygon_aiereba,Myliobatiformes,Potamotrygonidae,Paratrygon,Bat,Extant,Parat_aie,0,20,10,DD,FreshW,Undul
+'Disceus thayeri MCZIchS 606.jpg',MCZ Ichthyology S-606,Paratrygon_aiereba,Paratrygon_aiereba,Myliobatiformes,Potamotrygonidae,Paratrygon,Bat,Extant,Parat_aie,0,20,10,DD,FreshW,Undul
+'Fenestraja cubensis USNMRAD 380018.jpg',USNM 380018 ,Fenestraja_cubensis,Fenestraja_cubensis,Rajiformes,Gurgesiellidae,Fenestraja,Bat,Extant,Fenes_cub,440,869,654.5,LC,Deep,Undul
+'Fenestraja plutonia USNMRAD 222165.jpg',USNM 222165 ,Fenestraja_plutonia,Fenestraja_plutonia,Rajiformes,Gurgesiellidae,Fenestraja,Bat,Extant,Fenes_plu,290,750,520,LC,Deep,Undul
+'Fenestraja sinusmexicanus USNMRAD 222191.jpg',USNM 222191 ,Fenestraja sinusmexicanus,Fenestraja_sinusmexicanus,Rajiformes,Gurgesiellidae,Fenestraja,Bat,Extant,Fenes_sin,56,1096,576,LC,Deep,Undul
+'Glaucostegus thouin USNMRAD 110887-001.jpg',USNM RAD 110887 ,Glaucostegus thouin,Glaucostegus_thouin,Rhinopristiformes,Glaucostegidae,Glaucostegus,Bat,Extant,Glauc_tho,0,60,30,CR,Shelf,AxUnd
+'Glaucostegus typus USNMRAD 174080.jpg',USNM 174080 ,Glaucostegus typus,Glaucostegus_typus,Rhinopristiformes,Glaucostegidae,Glaucostegus,Bat,Extant,Glauc_typ,0,100,50,CR,Shelf,AxUnd
+'Gurgesiella atlantica USNMRAD 222258.jpg',USNM 222258 ,Gurgesiella atlantica,Gurgesiella_atlantica,Rajiformes,Gurgesiellidae,Gurgesiella,Bat,Extant,Gurge_atl,374,480,427,LC,Deep,Undul
+'Gurgesiella furvescens USNMRAD 362091.jpg',USNM 362091 ,Gurgesiella furvescens,Gurgesiella_furvescens,Rajiformes,Gurgesiellidae,Gurgesiella,Bat,Extant,Gurge_fur,350,450,400,LC,Deep,Undul
+'Gymnura altavela BMNH 19237307-8.jpg',NHMUK ZOO 1923.7.30.7-8,Gymnura altavela,Gymnura_altavela,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_alt,5,100,52.5,EN,Shelf,Oscil
+'Gymnura altavela BMNH 19397123.jpg',NHMUK ZOO 1939.7.12.3,Gymnura altavela,Gymnura_altavela,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_alt,5,100,52.5,EN,Shelf,Oscil
+'Gymnura australis AM I 14052.jpg',AM Ichthyology I.14052 ,Gymnura australis,Gymnura_australis,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_aus,5,250,127.5,LC,Shelf,Oscil
+'Gymnura crebipunctata CAS-ICH 26014.jpg',CAS-ICH 26014,Gymnura crebripunctata,Gymnura_crebripunctata,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_cre,1,30,15.5,NT,Shelf,Oscil
+'Gymnura crebipunctata CAS-ICH 26029.jpg',CAS-ICH 26029,Gymnura crebripunctata,Gymnura_crebripunctata,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_cre,1,30,15.5,NT,Shelf,Oscil
+'Gymnura crebripunctata NCat03.jpg',CAS-SU(ICH) 11587,Gymnura crebripunctata,Gymnura_crebripunctata,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_cre,1,30,15.5,NT,Shelf,Oscil
+'Gymnura japonica CAS-ICH 235213.jpg',CAS-ICH 235213,Gymnura japonica,Gymnura_japonica,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_jap,0,27,13.5,VU,Shelf,Oscil
+'Gymnura japonica CAS-ICH 42165 - A.jpg',CAS-ICH 42165,Gymnura japonica,Gymnura_japonica,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_jap,0,27,13.5,VU,Shelf,Oscil
+'Gymnura japonica CAS-ICH 42165 - B.jpg',CAS-ICH 42165,Gymnura japonica,Gymnura_japonica,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_jap,0,27,13.5,VU,Shelf,Oscil
+'Gymnura poecilura USNMRAD 110909.jpg',USNM RAD 110909 ,Gymnura poecilura,Gymnura_poecilura,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_poe,0,80,40,VU,Shelf,Oscil
+'Gymnura tentaculata CAS-ICH 29675.jpg',CAS-ICH 29675,Gymnura tentaculata,Gymnura_tentaculata,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_ten,0,87,43.5,CR,Shelf,Oscil
+'Gymnura zonura CAS-ICH 68140.jpg',CAS-ICH 68140,Gymnura zonurus ,Gymnura_zonura,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_zon,28,37,32.5,EN,Reef,Oscil
+'Gymnura zonura CAS-ICH 75872.jpg',CAS-ICH 75872,Gymnura zonurus ,Gymnura_zonura,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_zon,28,37,32.5,EN,Reef,Oscil
+'Heliotrygon gomesi CU 78485.jpg',CU 78485 ,Heliotrygon gomesi,Heliotrygon_gomesi,Myliobatiformes,Potamotrygonidae,Heliotrygon,Bat,Extant,Helio_gom,0,20,10,NE,FreshW,Undul
+'Hexatrygon bickelli CAS-ICH 233779.jpg',CAS-ICH 233779,Hexatrygon bickelli ,Hexatrygon_bickelli,Myliobatiformes,Hexatrygonidae,Hexatrygon,Bat,Extant,Hexat_bic,350,1120,735,LC,Deep,Undul
+'Himantura bleekeri BMNH 189261715.jpg',NHMUK ZOO 1892.6.17.15,Pateobatis bleekeri ,Himantura_uarnacoides,Myliobatiformes,Dasyatidae,Pateobatis,Bat,Extant,Pateo_ble,0,30,15,EN,Shelf,Undul
+'Himantura nudus BMNH 18453719-20-A.jpg',NHMUK ZOO 1845.3.7.19-20,Brevitrygon walga ,Himantura_walga,Myliobatiformes,Dasyatidae,Brevitrygon,Bat,Extant,Brevi_wal,0,40,20,NT,Shelf,Undul
+'Himantura nudus BMNH 18453719-20-B.jpg',NHMUK ZOO 1845.3.7.19-20,Brevitrygon walga ,Himantura_walga,Myliobatiformes,Dasyatidae,Brevitrygon,Bat,Extant,Brevi_wal,0,40,20,NT,Shelf,Undul
+'Himantura signifer USNMRAD 229492.jpg',USNM 229492 ,Fluvitrygon signifer ,Himantura_signifer,Myliobatiformes,Dasyatidae,Fluvitrygon,Bat,Extant,Fluvi_sig,0,40,20,EN,FreshW,Undul
+'Himantura uarnak USNMRAD 110908-001.jpg',USNM RAD 110908 ,Himantura uarnak,Himantura_uarnak,Myliobatiformes,Dasyatidae,Himantura,Bat,Extant,Himan_uar,20,50,35,EN,Reef,Undul
+'Hypnos monopterygius MCZIchS 985.jpg',MCZ Ichthyology S-985,Hypnos monopterygius ,Hypnos_monopterygius,Torpediniformes,Hypnidae,Hypnos,Bat,Extant,Hypno_mon,0,240,120,LC,Reef,AxUnd
+'Indobatis ori W640.jpg',ZMH 25926 ,Indobatis ori ,Indobatis_ori,Rajiformes,Anacanthobatidae,Indobatis,Bat,Extant,Indob_ori ,1000,1725,1362.5,LC,Deep,Undul
+'Leucoraja erinacea USNMRAD 386062.jpg',USNM 386062 ,Leucoraja erinaceus,Leucoraja_erinacea,Rajiformes,Rajidae,Leucoraja,Bat,Extant,Leuco_eri,10,914,462,LC,Deep,Undul
+'Leucoraja ocellata USNMRAD 386061.jpg',USNM 386061 ,Leucoraja ocellata,Leucoraja_ocellata,Rajiformes,Rajidae,Leucoraja,Bat,Extant,Leuco_oce,4,723,363.5,EN,Deep,Undul
+'Leucoraja ocellata USNMRAD 410544.jpg',USNM 410544 ,Leucoraja ocellata,Leucoraja_ocellata,Rajiformes,Rajidae,Leucoraja,Bat,Extant,Leuco_oce,4,723,363.5,EN,Deep,Undul
+'Malacoraja nigerrima USNMRAD 267046.jpg',USNM 267046 ,Rajella nigerrima ,Rajella_nigerrima,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_nig,590,1000,795,LC,Deep,Undul
+'Malacoraja senta MCZIch 34226.jpg',MCZ Ichthyology 34226,Malacoraja senta ,Malacoraja_senta,Rajiformes,Rajidae,Malacoraja,Bat,Extant,Malac_sen,25,1436,730.5,VU,Deep,Undul
+'Malacoraja senta USNMRAD 386068.jpg',USNM 386068 ,Malacoraja senta ,Malacoraja_senta,Rajiformes,Rajidae,Malacoraja,Bat,Extant,Malac_sen,25,1436,730.5,VU,Deep,Undul
+'Myliobatis asperrimus SU 11895.jpg',CAS-SU(ICH) 11895 ,Aetomylaeus asperrimus ,Pteromylaeus_asperrimus,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_asp,1,50,25.5,DD,Shelf,Oscil
+'Myliobatis californica CAS-ICH 20622.jpg',CAS-ICH 20622,Myliobatis californica ,Myliobatis_californicus,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_cal,0,108,54,LC,Shelf,Oscil
+'Myliobatis californica CAS-ICH 232282.jpg',CAS-ICH 232282,Myliobatis californica ,Myliobatis_californicus,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_cal,0,108,54,LC,Shelf,Oscil
+'Myliobatis californica CAS-ICH 232286.jpg',CAS-ICH 232286,Myliobatis californica ,Myliobatis_californicus,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_cal,0,108,54,LC,Shelf,Oscil
+'Myliobatis freminvillii USNMRAD 204770.jpg',USNM 204770 ,Myliobatis freminvillei ,Myliobatis_freminvillei,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_fre,0,100,50,VU,Shelf,Oscil
+'Myliobatis goodei MCZ Ich S-1343.jpg',MCZ Ichthyology S-1343,Myliobatis goodei ,Myliobatis_goodei,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_goo,1,130,65.5,VU,Shelf,Oscil
+'Myliobatis goodei USNMRAD 109947 003.jpg',USNM RAD 109947 ,Myliobatis goodei ,Myliobatis_goodei,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_goo,1,130,65.5,VU,Shelf,Oscil
+'Myliobatis tobijei CAS-ICH 232281.jpg',CAS-ICH 232281,Myliobatis tobijei,Myliobatis_tobijei,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_tob,0,220,110,VU,Shelf,Oscil
+'Narcine brasiliensis corallina MCZIchS 44.jpg',MCZ Ichthyology S-44,Narcine bancroftii ,Narcine_bancroftii,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ban,0,35,17.5,LC,Shelf,AxUnd
+'Narcine brasiliensis corallina MCZIchS 44_2.jpg',MCZ Ichthyology S-44,Narcine bancroftii ,Narcine_bancroftii,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ban,0,35,17.5,LC,Shelf,AxUnd
+'Narcine entemedor CAS-ICH SU 11699.jpg',CAS-ICH SU 11699,Narcine entemedor ,Narcine_entemedor,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ent,1,100,50.5,VU,Shelf,AxUnd
+'Narcine leoparda USNMRAD 109930-001.jpg',USNM RAD 109930 ,Narcine leoparda,Narcine_leoparda,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_leo,10,35,22.5,VU,Shelf,AxUnd
+'Narcine oculifera CAS-ICH 66838.jpg',CAS-ICH 66838,Narcine oculifera ,Narcine_oculifera,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ocu,10,25,17.5,DD,Shelf,AxUnd
+'Narcine ommata CAS-ICH 5444.jpg',CAS-ICH 5444,Diplobatis ommata,Diplobatis_ommata,Torpediniformes,Narcinidae,Diplobatis,Bat,Extant,Diplo_omm,3,94,48.5,LC,Reef,AxUnd
+'Narcine punctata MCZIchS 752.jpg',MCZ Ichthyology S-752,Narcine bancroftii ,Narcine_bancroftii,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ban,0,35,17.5,LC,Shelf,AxUnd
+'Narcine schmitti USNMRAD 109931 001.jpg',USNM RAD 109931 ,Narcine vermiculata ,Narcine_vermiculata,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ver,10,60,35,LC,Shelf,AxUnd
+'Narcine schmitti USNMRAD 109931 002.jpg',USNM RAD 109931 ,Narcine vermiculata ,Narcine_vermiculata,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ver,10,60,35,LC,Shelf,AxUnd
+'Narcine schmitti USNMRAD 109931 003.jpg',USNM RAD 109931 ,Narcine vermiculata ,Narcine_vermiculata,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ver,10,60,35,LC,Shelf,AxUnd
+'Narcine timlei USNMRAD 110900-001.jpg',USNM RAD 110900 ,Narcine timlei ,Narcine_timlei,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_tim,10,50,30,VU,Shelf,AxUnd
+'Narcine umbrosa NCat06.jpg',CAS-ICH 18246 (IU 00987),Narcine bancroftii ,Narcine_bancroftii,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ban,0,35,17.5,LC,Shelf,AxUnd
+'Narcine umbrosa USNMRAD 109932 001.jpg',USNM RAD 109932 ,Narcine bancroftii ,Narcine_bancroftii,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ban,0,35,17.5,LC,Shelf,AxUnd
+'Neotrygon kuhlii CAS-ICH 42161.jpg',CAS-ICH 42161,Neotrygon kuhlii ,Neotrygon_kuhlii,Myliobatiformes,Dasyatidae,Neotrygon,Bat,Extant,Neotr_kuh,0,170,85,DD,Reef,Undul
+'Notoraja tobitukai USNMRAD 170475.jpg',USNM 170475 ,Notoraja tobitukai ,Notoraja_tobitukai,Rajiformes,Arhynchobatidae,Notoraja,Bat,Extant,Notor_tob,60,1015,537.5,LC,Deep,Undul
+'Okamejei fusca MCZIchS 1240.jpg',MCZ Ichthyology S-1240,Okamejei kenojei ,Okamejei_kenojei,Rajiformes,Rajidae,Okamejei,Bat,Extant,Okame_ken,20,230,125,VU,Shelf,Undul
+'Okamejei hollandi USNMRAD 148374.jpg',USNM 148374 ,Okamejei hollandi ,Okamejei_hollandi,Rajiformes,Rajidae,Okamejei,Bat,Extant,Okame_hol,67,87,77,VU,Shelf,Undul
+'Orectolobus maculatus MCZIchS 972.jpg',MCZ Ichthyology S-972,Orectolobus maculatus,Orectolobus_maculatus,Orectolobiformes,Orectolobidae,Orectolobus,Sel,Extant,Orec_mac,0,248,124,LC,Reef,AxUnd
+'Orectolobus maculatus USNMRAD 109810-001.jpg',USNM RAD 109810 ,Orectolobus maculatus,Orectolobus_maculatus,Orectolobiformes,Orectolobidae,Orectolobus,Sel,Extant,Orec_mac,0,248,124,LC,Reef,AxUnd
+'Pastinachus ater AM.jpg',AM Ia.38,Pastinachus ater ,Pastinachus_atrus,Myliobatiformes,Dasyatidae,Pastinachus,Bat,Extant,Pasti_ate,0,60,30,VU,Reef,Undul
+'Pastinachus sephen USNMRAD 110907-001.jpg',USNM RAD 110907 ,Pastinachus sephen ,Pastinachus_sephen,Myliobatiformes,Dasyatidae,Pastinachus,Bat,Extant,Pasti_sep,0,60,30,NT,Reef,Undul
+'Pastinachus sephen USNMRAD 205138.jpg',USNM 205138 ,Pastinachus sephen ,Pastinachus_sephen,Myliobatiformes,Dasyatidae,Pastinachus,Bat,Extant,Pasti_sep,0,60,30,NT,Reef,Undul
+'Platyrhina exasperata MCZIch 36022.jpg',MCZ Ichthyology 36022,Zapteryx exasperata ,Zapteryx_exasperata,Rhinopristiformes,Trygonorrhinidae ,Zapteryx,Bat,Extant,Zapte_exa,1,200,100.5,DD,Reef,Undul
+'Platyrhina exasperata MCZIch 36022_2.jpg',MCZ Ichthyology 36022,Zapteryx exasperata ,Zapteryx_exasperata,Rhinopristiformes,Trygonorrhinidae ,Zapteryx,Bat,Extant,Zapte_exa,1,200,100.5,DD,Reef,Undul
+'Platyrhina exasperata USNMRAD 109875001-A.jpg',USNM RAD 109875 ,Zapteryx exasperata ,Zapteryx_exasperata,Rhinopristiformes,Trygonorrhinidae ,Zapteryx,Bat,Extant,Zapte_exa,1,200,100.5,DD,Reef,Undul
+'Platyrhina exasperata USNMRAD 109875001-B.jpg',USNM RAD 109875 ,Zapteryx exasperata ,Zapteryx_exasperata,Rhinopristiformes,Trygonorrhinidae ,Zapteryx,Bat,Extant,Zapte_exa,1,200,100.5,DD,Reef,Undul
+'Platyrhina exasperata USNMRAD 109875001-C.jpg',USNM RAD 109875 ,Zapteryx exasperata ,Zapteryx_exasperata,Rhinopristiformes,Trygonorrhinidae ,Zapteryx,Bat,Extant,Zapte_exa,1,200,100.5,DD,Reef,Undul
+'Platyrhina sinensis MNHN 0000-1307.jpg',MNHN-IC-0000-1307 ,Platyrhina sinensis ,Platyrhina_sinensis,Torpediniformes,Platyrhinidae,Platyrhina,Bat,Extant,Platy_sin,30,100,65,EN,Shelf,Undul
+'Platyrhinodisi triseriata CAS-ICH 59621.jpg',CAS-ICH 59621,Platyrhinoidis triseriata ,Platyrhinoidis_triseriata,Torpediniformes,Platyrhinidae,Platyrhinoidis,Bat,Extant,Pidis_tri,0,137,68.5,LC,Shelf,Undul
+'Platyrhinoidis sp NCat07.JPG',MNHN 4329 ,Platyrhinoidis triseriata ,Platyrhinoidis_triseriata,Torpediniformes,Platyrhinidae,Platyrhinoidis,Bat,Extant,Pidis_tri,0,137,68.5,LC,Shelf,Undul
+'Platyrhinoidis sp NCat08.jpg',USNM 26275 ,Platyrhinoidis triseriata ,Platyrhinoidis_triseriata,Torpediniformes,Platyrhinidae,Platyrhinoidis,Bat,Extant,Pidis_tri,0,137,68.5,LC,Shelf,Undul
+'Platyrhinoidis triseriata USNMRAD 109877001.jpg',USNM RAD 109877 ,Platyrhinoidis triseriata ,Platyrhinoidis_triseriata,Torpediniformes,Platyrhinidae,Platyrhinoidis,Bat,Extant,Pidis_tri,0,137,68.5,LC,Shelf,Undul
+'Pleisiotrygon iwamae FMNH 94500.jpg',FMNH 94500,Plesiotrygon iwamae ,Plesiotrygon_iwamae,Myliobatiformes,Potamotrygonidae,Plesiotrygon,Bat,Extant,Plesi_iwa,20,50,35,DD,FreshW,Undul
+'Pliotrema warreni BMNH 1905689.jpg',NHMUK ZOO 1905.6.8.9 ,Pliotrema warreni ,Pliotrema_warreni,Pristiophoriformes,Pristiophoridae,Pliotrema,Sel,Extant,Pliot_war,10,915,462.5,LC,Deep,AxUnd
+'Pliotrema warreni USNMRAD 109870-001.jpg',USNM RAD 109870 ,Pliotrema warreni ,Pliotrema_warreni,Pristiophoriformes,Pristiophoridae,Pliotrema,Sel,Extant,Pliot_war,10,915,462.5,LC,Deep,AxUnd
+'Potamotrygon boesemani USNMRAD 225574.jpg',USNM 225574 ,Potamotrygon boesemani ,Potamotrygon_boesemani,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_boe,0,10,5,NE,FreshW,Undul
+'Potamotrygon circularis MCZIchS 291.jpg',MCZ Ichthyology S-291,Potamotrygon constellata ,Potamotrygon_constellata,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_con,0,15,7.5,DD,FreshW,Undul
+'Potamotrygon humboldti USNMRAD 123658.jpg',USNM 123658 ,Potamotrygon hystrix ,Potamotrygon_hystrix,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_hys,0,10,5,DD,FreshW,Undul
+'Potamotrygon humerosus MCZIchS 299.jpg',MCZ Ichthyology S-299,Potamotrygon humerosa ,Potamotrygon_humerosa,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_hum,0,20,10,NE,FreshW,Undul
+'Potamotrygon hystrix BMNH 19349121.jpg',NHMUK ZOO 1934.9.12.1,Potamotrygon hystrix ,Potamotrygon_hystrix,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_hys,0,10,5,DD,FreshW,Undul
+'Potamotrygon laticeps USNMRAD 109944-001.jpg',USNM RAD 109944 ,Potamotrygon motoro ,Potamotrygon_motoro,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_mot,0,10,5,DD,FreshW,Undul
+'Potamotrygon leopoldi Fidji.png',Scan upon request,Potamotrygon leopoldi ,Potamotrygon_leopoldi,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_leo,0,10,5,VU,FreshW,Undul
+'Potamotrygon signatus USNMRAD 109945-001.jpg',USNM RAD 109945 ,Potamotrygon signata ,Potamotrygon_signata,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_sig,0,10,5,DD,FreshW,Undul
+'Potamotrygon yepezi USNMRAD 121659 1.jpg',USNM 121659 ,Potamotrygon yepezi ,Potamotrygon_yepezi,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_yep,0,20,10,DD,FreshW,Undul
+'Potamotrygon yepezi USNMRAD 121659 2.jpg',USNM 121659 ,Potamotrygon yepezi ,Potamotrygon_yepezi,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_yep,0,20,10,DD,FreshW,Undul
+'Potamotrygon yepezi USNMRAD 121660.jpg',USNM 121660 ,Potamotrygon yepezi ,Potamotrygon_yepezi,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_yep,0,20,10,DD,FreshW,Undul
+'Pristiophorus japonicus USNMRAD 109869-001.jpg',USNM RAD 109869 ,Pristiophorus japonicus,Pristiophorus_japonicus,Pristiophoriformes,Pristiophoridae,Pristiophorus,Sel,Extant,Pphor_jap,0,500,250,LC,Deep,AxUnd
+'Pristiophorus lanae CAS-ICH 34930.jpg',CAS-ICH 34930,Pristiophorus lanae ,Pristiophorus_lanae,Pristiophoriformes,Pristiophoridae,Pristiophorus,Sel,Extant,Pphor_lan,29,593,311,NT,Shelf,AxUnd
+'Pristiophorus nudipinnis USNMRAD 107108-001.jpg',USNM RAD 107108 ,Pristiophorus nudipinnis ,Pristiophorus_nudipinnis,Pristiophoriformes,Pristiophoridae,Pristiophorus,Sel,Extant,Pphor_nud,37,165,101,LC,Shelf,AxUnd
+'Pristis microdon 8188_X229_FMNH_FZ_b.jpg',FMNH 8188,Pristis pristis ,Pristis_pristis,Rhinopristiformes,Pristidae,Pristis,Bat,Extant,Prist_pri,1,26,13.5,CR,Shelf,AxUnd
+'Pristis microdon 8192_X217_FMNH_FZ.jpg',FMNH 8192,Pristis pristis ,Pristis_pristis,Rhinopristiformes,Pristidae,Pristis,Bat,Extant,Prist_pri,1,26,13.5,CR,Shelf,AxUnd
+'Pristis pectinata 1939_X207 FMNH-FZ.jpg',FMNH 1939,Pristis pectinata,Pristis_pectinata,Rhinopristiformes,Pristidae,Pristis,Bat,Extant,Prist_pec,10,88,49,CR,Shelf,AxUnd
+'Pristis pectinata MCZIchS 105.jpg',MCZ Ichthyology S-105,Pristis pectinata,Pristis_pectinata,Rhinopristiformes,Pristidae,Pristis,Bat,Extant,Prist_pec,10,88,49,CR,Shelf,AxUnd
+'Pristis pectinata USNMRAD 42374.jpg',USNM 42374 ,Pristis pectinata,Pristis_pectinata,Rhinopristiformes,Pristidae,Pristis,Bat,Extant,Prist_pec,10,88,49,CR,Shelf,AxUnd
+'Psammobatis rudis USNMRAD 124839-001.jpg',USNM RAD 124839 ,Psammobatis rudis ,Psammobatis_rudis,Rajiformes,Arhynchobatidae,Psammobatis,Bat,Extant,Psamm_rud,30,475,252.5,LC,Shelf,Undul
+'Psammobatis scobina USNMRAD 176491.jpg',USNM 176491 ,Psammobatis scobina ,Psammobatis_scobina,Rajiformes,Arhynchobatidae,Psammobatis,Bat,Extant,Psamm_sco,40,450,245,LC,Shelf,Undul
+'Pseudoraja fischeri USNMRAD 285422.jpg',USNM 285422 ,Pseudoraja fischeri ,Pseudoraja_fischeri,Rajiformes,Arhynchobatidae,Pseudoraja,Bat,Extant,Psraj_fis,412,576,494,LC,Deep,Undul
+'Pteroplatea bimaculata BMNH 19254233.jpg',NHMUK ZOO 1925.4.23.3,Gymnura japonica,Gymnura_japonica,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_jap,0,27,13.5,VU,Shelf,Oscil
+'Pteroplatea rava SU 11587.jpg',CAS-SU(ICH) 11587 ,Gymnura marmorata ,Gymnura_marmorata,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_mar,1,94,47.5,NT,Shelf,Oscil
+'Pteroplatea zonura BMNH 19097123033.jpg',NHMUK ZOO 1909.7.12.30-33,Gymnura zonurus ,Gymnura_zonura,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_zon,28,37,32.5,EN,Reef,Oscil
+'Raia albolinea BMNH 19357144.jpg',NHMUK ZOO 1935.7.14.4,Rajella caudaspinosa ,Rajella_caudaspinosa,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_cau,102,1098,600,LC,Deep,Undul
+'Raia melitensis BMNH 192612202.jpg',NHMUK ZOO 1926.12.20.2,Leucoraja melitensis ,Leucoraja_melitensis,Rajiformes,Rajidae,Leucoraja,Bat,Extant,Leuco_mel,60,800,430,CR,Deep,Undul
+'Raia parcomaculata BMNH 19357141.jpg',NHMUK ZOO 1935.7.14.1,Cruriraja parcomaculata ,Cruriraja_parcomaculata,Rajiformes,Gurgesiellidae,Cruriraja,Bat,Extant,Cruri_par,150,620,385,LC,Deep,Undul
+'Raja (atlantoraja) cyclophora MNHN 1992-1313.jpg',MNHN-IC-1992-1313 ,Atlantoraja cyclophora ,Atlantoraja_cyclophora,Rajiformes,Arhynchobatidae,Atlantoraja,Bat,Extant,Atlan_cyc,100,300,200,EN,Shelf,Undul
+'Raja aguja USNMRAD 109913 001.jpg',USNM RAD 109913 ,Bathyraja aguja ,Bathyraja_aguja,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_agu,650,980,815,LC,Deep,Undul
+'Raja atriventralis USNMRAD 109914 001.jpg',USNM RAD 109914 ,Okamejei kenojei ,Okamejei_kenojei,Rajiformes,Rajidae,Okamejei,Bat,Extant,Okame_ken,20,230,125,VU,Shelf,Undul
+'Raja bigelowi USNMRAD 109916 001.jpg',USNM RAD 109916 ,Rajella bigelowi ,Rajella_bigelowi,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_big,650,4156,2403,LC,Deep,Undul
+'Raja binoculata USNMRAD 203500.jpg',USNM 203500 ,Beringraja binoculata ,Beringraja_binoculata,Rajiformes,Rajidae,Beringraja,Bat,Extant,Berin_bin,3,800,401.5,LC,Deep,Undul
+'Raja clarkii USNMRAD 156712.jpg',USNM 156712 ,Dactylobatus clarkii ,Dactylobatus_clarkii,Rajiformes,Rajidae,Dactylobatus,Bat,Extant,Dacty_cla,475,1000,737.5,LC,Deep,Undul
+'Raja clavata BMNH 196351434-361.jpg',NHMUK ZOO 1963.5.14.34-36,Raja clavata ,Raja_clavata,Rajiformes,Rajidae,Raja,Bat,Extant,Raja_clav,5,1020,512.5,NT,Deep,Undul
+'Raja eisenhardti NCat09.jpg',CAS-ICH 86817,Rajella eisenhardti,Rajella_eisenhardti,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_eis,757,907,832,LC,Deep,Undul
+'Raja equatorialis USNMRAD 109919 002.jpg',USNM RAD 109919 ,Rostroraja equatorialis ,Raja_equatorialis,Rajiformes,Rajidae,Rostroraja,Bat,Extant,Rostr_equ,20,200,110,DD,Shelf,Undul
+'Raja floridana USNMRAD 109920-002.jpg',USNM RAD 109920 ,Dipturus teevani ,Dipturus_teevani,Rajiformes,Rajidae,Dipturus,Bat,Extant,Diptu_tee,310,1900,1105,LC,Deep,Undul
+'Raja fuliginea USNMRAD 163367.jpg',USNM 163367 ,Rajella fuliginea ,Rajella_fuliginea,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_ful,731,1280,1005.5,LC,Deep,Undul
+'Raja garricki USNMRAD 110894-001.jpg',USNM RAD 110894 ,Dipturus garricki ,Dipturus_garricki,Rajiformes,Rajidae,Dipturus,Bat,Extant,Diptu_gar,275,476,375.5,LC,Deep,Undul
+'Raja mollis USNMRAD 124841-001.jpg',USNM RAD 124841 ,Malacoraja spinacidermis ,Malacoraja_spinacidermis,Rajiformes,Rajidae,Malacoraja,Bat,Extant,Malac_spi,450,1570,1010,LC,Deep,Undul
+'Raja montereyensis USNMRAD 75806.jpg',USNM 75806 ,Caliraja stellulata,Raja_stellulata,Rajiformes,Rajidae,Raja,Bat,Extant,Calir_ste,18,982,500,LC,Deep,Undul
+'Raja platana USNMRAD 55578.jpg',USNM 55578 ,Atlantoraja platana ,Atlantoraja_platana,Rajiformes,Arhynchobatidae,Atlantoraja,Bat,Extant,Atlan_pla,19,181,100,EN,Shelf,Undul
+'Raja purpuriventralis USNMRAD 196440.jpg',USNM 196440 ,Rajella purpuriventralis ,Rajella_purpuriventralis,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_pur,922,1260,1091,LC,Deep,Undul
+'Raja rhina CAS-ICH 26853-A.jpg',CAS-ICH 26853,Caliraja rhina ,Raja_rhina,Rajiformes,Rajidae,Caliraja,Bat,Extant,Calir_rhi,9,1069,539,LC,Deep,Undul
+'Raja rhina CAS-ICH 26853-B.jpg',CAS-ICH 26853,Caliraja rhina ,Raja_rhina,Rajiformes,Rajidae,Caliraja,Bat,Extant,Calir_rhi,9,1069,539,LC,Deep,Undul
+'Raja rhina CAS-ICH 26853-C.jpg',CAS-ICH 26853,Caliraja rhina ,Raja_rhina,Rajiformes,Rajidae,Caliraja,Bat,Extant,Calir_rhi,9,1069,539,LC,Deep,Undul
+'Raja teevani USNMRAD 109926-001.jpg',USNM RAD 109926 ,Dipturus teevani ,Dipturus_teevani,Rajiformes,Rajidae,Dipturus,Bat,Extant,Diptu_tee,310,1900,1105,LC,Deep,Undul
+'Rajella caudaspinosa BMNH 1935525960-A.jpg',NHMUK ZOO 1935.5.2.59-60,Rajella caudaspinosa ,Rajella_caudaspinosa,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_cau,102,1098,600,LC,Deep,Undul
+'Rajella caudaspinosa BMNH 1935525960-B.jpg',NHMUK ZOO 1935.5.2.59-60,Rajella caudaspinosa ,Rajella_caudaspinosa,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_cau,102,1098,600,LC,Deep,Undul
+'Rajella caudaspinosa BMNH 19355264.jpg',NHMUK ZOO 1935.5.2.64,Rajella caudaspinosa ,Rajella_caudaspinosa,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_cau,102,1098,600,LC,Deep,Undul
+'Rajella fuliginea USNMRAD 222289.jpg',USNM 222289 ,Rajella fuliginea ,Rajella_fuliginea,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_ful,731,1280,1005.5,LC,Deep,Undul
+'Rajella purpuriventralis USNMRAD 267764.jpg',USNM 267764 ,Rajella purpuriventralis ,Rajella_purpuriventralis,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_pur,922,1260,1091,LC,Deep,Undul
+'Rhina ancylostoma USNMRAD 110886-001.jpg',USNM RAD 110886 ,Rhina ancylostomus ,Rhina_ancylostoma,Rhinopristiformes,Rhinidae,Rhina,Bat,Extant,Rhina_anc,3,90,46.5,CR,Reef,AxUnd
+'Rhinobatos annulatus MNHN 1989-0553.jpg',MNHN-IC-1989-0553 ,Acroteriobatus annulatus ,Acroteriobatus_annulatus,Rhinopristiformes,Rhinobatidae,Acroteriobatos,Bat,Extant,Acrot_ann,1,75,38,VU,Shelf,AxUnd
+'Rhinobatos glaucostigmus USNMRAD 109874001.jpg',USNM RAD 109874 ,Pseudobatos glaucostigma ,Rhinobatos_glaucostigma,Rhinopristiformes,Rhinobatidae,Pseudobatos,Bat,Extant,Psbat_gla,1,112,56.5,VU,Shelf,AxUnd
+'Rhinobatos granulatus BMNH 19265265.jpg',NHMUK ZOO 1926.5.26.5,Glaucostegus granulatus ,Glaucostegus_granulatus,Rhinopristiformes,Glaucostegidae,Glaucostegus,Bat,Extant,Glauc_gra,1,119,60,CR,Shelf,AxUnd
+'Rhinobatos leucospilus BMNH 19207231.jpg',NHMUK ZOO 1920.7.23.1,Acroteriobatus leucospilus ,Acroteriobatus_leucospilus,Rhinopristiformes,Rhinobatidae,Acroteriobatos,Bat,Extant,Acrot_leu,0,100,50,EN,Shelf,AxUnd
+'Rhinobatos rasus MCZIchS 235.jpg',MCZ Ichthyology S-235,Glaucostegus cemiculus ,Glaucostegus_cemiculus,Rhinopristiformes,Glaucostegidae,Glaucostegus,Bat,Extant,Glauc_cem,9,100,54.5,CR,Shelf,AxUnd
+'Rhinobatos rhinobatos USNMRAD 114553-001.jpg',USNM RAD 114553 ,Rhinobatos rhinobatos ,Rhinobatos_rhinobatos,Rhinopristiformes,Rhinobatidae,Rhinobatos,Bat,Extant,Rhbat_rhi,0,100,50,CR,Shelf,AxUnd
+'Rhinobatus annandalei BMNH 19097121-2-A.jpg',NHMUK ZOO 1909.7.12.1-2,Rhinobatos annandalei ,Rhinobatos_annandalei,Rhinopristiformes,Rhinobatidae,Rhinobatos,Bat,Extant,Rhbat_ann,40,90,65,CR,Shelf,AxUnd
+'Rhinobatus annandalei BMNH 19097121-2-B.jpg',NHMUK ZOO 1909.7.12.1-2,Rhinobatos annandalei ,Rhinobatos_annandalei,Rhinopristiformes,Rhinobatidae,Rhinobatos,Bat,Extant,Rhbat_ann,40,90,65,CR,Shelf,AxUnd
+'Rhinobatus armatus BMNH 195381011.jpg',NHMUK ZOO 1953.8.10.11,Glaucostegus typus ,Glaucostegus_typus,Rhinopristiformes,Glaucostegidae,Glaucostegus,Bat,Extant,Glauc_typ,0,100,50,CR,Shelf,AxUnd
+'Rhinobatus holcorhynchus BMNH 192211318.jpg',NHMUK ZOO 1922.1.13.18,Rhinobatos holcorhynchus ,Rhinobatos_holcorhynchus,Rhinopristiformes,Rhinobatidae,Rhinobatos,Bat,Extant,Rhbat_hol,75,253,164,CR,Shelf,AxUnd
+'Rhinobatus leucospilus BMNH 19056812.jpg',NHMUK ZOO 1905.6.8.12,Acroteriobatus leucospilus ,Acroteriobatus_leucospilus,Rhinopristiformes,Rhinobatidae,Acroteriobatos,Bat,Extant,Acrot_leu,0,100,50,EN,Shelf,AxUnd
+'Rhinobatus lionotus BMNH 19097123.jpg',NHMUK ZOO 1909.7.12.3,Rhinobatos lionotus ,Rhinobatos_lionotus,Rhinopristiformes,Rhinobatidae,Rhinobatos,Bat,Extant,Rhbat_lio,70,76,73,CR,Shelf,AxUnd
+'Rhinobatus ocellatus BMNH 1906111926.jpg',NHMUK ZOO 1906.11.19.26,Acroteriobatus ocellatus ,Acroteriobatus_ocellatus,Rhinopristiformes,Rhinobatidae,Acroteriobatos,Bat,Extant,Acrot_oce,60,185,122.5,DD,Shelf,AxUnd
+'Rhinobatus zanzibarensis BMNH 18685304.jpg',NHMUK ZOO 1868.5.30.4,Acroteriobatus zanzibarensis ,Acroteriobatus_zanzibarensis,Rhinopristiformes,Rhinobatidae,Acroteriobatos,Bat,Extant,Acrot_zan,0,100,50,NT,Shelf,AxUnd
+'Rhinoptera brasiliensis MCZIchS 418.jpg',MCZ Ichthyology S-418,Rhinoptera brasiliensis ,Rhinoptera_brasiliensis,Myliobatiformes,Rhinopteridae,Rhinoptera,Bat,Extant,Rhpte_bra,0,20,10,VU,Shelf,Oscil
+'Rhinoraja longi CAS-ICH 73564.jpg',CAS-ICH 73564,Bathyraja taranetzi ,Rhinoraja_taranetzi,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_tar,58,1054,556,LC,Deep,Undul
+'Rhinoraja longi USNMRAD 313801.jpg',USNM 313801 ,Bathyraja taranetzi ,Rhinoraja_taranetzi,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_tar,58,1054,556,LC,Deep,Undul
+'Rhynchobatus australiae USNMRAD 110890-002.jpg',USNM RAD 110890 ,Rhynchobatus australiae ,Rhynchobatus_australiae,Rhinopristiformes,Rhinidae,Rhynchobatus,Bat,Extant,Rhync_aus,0,60,30,CR,Reef,AxUnd
+'Rhynchobatus djiddensis USNMRAD 110891-001.jpg',USNM RAD 110891 ,Rhynchobatus djiddensis ,Rhynchobatus_djiddensis,Rhinopristiformes,Rhinidae,Rhynchobatus,Bat,Extant,Rhync_dji,1,75,38,CR,Reef,AxUnd
+'Rhynchobatus percellens CAS-SU 11851.jpg',CAS-SU(ICH) 11851 ,Pseudobatos percellens ,Rhinobatos_percellens,Rhinopristiformes,Rhinobatidae,Pseudobatos,Bat,Extant,Psbat_per,0,110,55,EN,Shelf,AxUnd
+'Rhynchobatus springeri RAD110889-001.jpg',USNM RAD 110889 ,Rhynchobatus springeri ,Rhynchobatus_springeri,Rhinopristiformes,Rhinidae,Rhynchobatus,Bat,Extant,Rhync_spr,16,37,26.5,CR,Shelf,AxUnd
+'Rhynchobatus springeri RAD110889-002.jpg',USNM RAD 110889 ,Rhynchobatus springeri ,Rhynchobatus_springeri,Rhinopristiformes,Rhinidae,Rhynchobatus,Bat,Extant,Rhync_spr,16,37,26.5,CR,Shelf,AxUnd
+'Springeria folirostris USNMRAD 109928-001.jpg',USNM RAD 109928 ,Springeria folirostris ,Springeria_folirostris,Rajiformes,Anacanthobatidae,Springeria,Bat,Extant,Sprin_fol,425,472,448.5,LC,Deep,Undul
+'Springeria melanosoma USNMRAD 109929-002.jpg',USNM RAD 109929 ,Sinobatis melanosoma,Sinobatis_melanosoma,Rajiformes,Anacanthobatidae,Sinobatis,Bat,Extant,Sinob_mel,500,1100,800,LC,Deep,Undul
+'Squatina africana BMNH 1906111921.jpg',NHMUK ZOO 1906.11.19.21,Squatina africana,Squatina_africana,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_afr,60,494,277,NT,Shelf,AxUnd
+'Squatina africana MNHN IC 19871265.jpg',MNHN-IC-1987-1265 ,Squatina africana,Squatina_africana,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_afr,60,494,277,NT,Shelf,AxUnd
+'Squatina africana MNHN IC 20030378.jpg',MNHN-IC-2003-0378 ,Squatina africana,Squatina_africana,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_afr,60,494,277,NT,Shelf,AxUnd
+'Squatina angelus NMW 87247.jpg',NMW 87247,Squatina squatina,Squatina_squatina,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_squ,5,150,77.5,CR,Shelf,AxUnd
+'Squatina armata USNMRAD 110872-001.jpg',USNM RAD 110872,Squatina armata,Squatina_armata,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_arm,3,200,101.5,CR,Shelf,AxUnd
+'Squatina armata USNMRAD 110878-001-A.jpg',USNM RAD 110878,Squatina armata,Squatina_armata,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_arm,3,200,101.5,CR,Shelf,AxUnd
+'Squatina armata USNMRAD 110878-001-B.jpg',USNM RAD 110878,Squatina armata,Squatina_armata,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_arm,3,200,101.5,CR,Shelf,AxUnd
+'Squatina californica USNMRAD 109873-001-A.jpg',USNM RAD 110873,Squatina californica,Squatina_californica,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_cal,3,205,104,NT,Shelf,AxUnd
+'Squatina californica USNMRAD 109873-001-B.jpg',USNM RAD 110873,Squatina californica,Squatina_californica,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_cal,3,205,104,NT,Shelf,AxUnd
+'Squatina californica USNMRAD 110882-001.jpg',USNM RAD 110882,Squatina californica,Squatina_californica,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_cal,3,205,104,NT,Shelf,AxUnd
+'Squatina dumeril USNMRAD 358610.jpg',USNM 358610 ,Squatina dumeril,Squatina_dumeril,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_dum,1,1375,688,LC,Deep,AxUnd
+'Squatina nebulosa BMNH1905 665 Ventral.jpg',NHMUK ZOO 1862.11.1.89 ,Squatina nebulosa,Squatina_nebulosa,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_neb,0,200,100,EN,Shelf,AxUnd
+'Squatina sp USNMRAD 193583.jpg',USNM 193583 ,Squatina dumeril,Squatina_dumeril,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_dum,1,1375,688,LC,Deep,AxUnd
+'Sympterygia acuta USNMRAD 53437.jpg',USNM 53437 ,Sympterygia acuta,Sympterygia_acuta,Rajiformes,Arhynchobatidae,Sympterygia,Bat,Extant,Sympt_acu,10,188,99,CR,Shelf,Undul
+'Taeniura lymma USNMRAD 170359.jpg',USNM 170359 ,Taeniura lymma ,Taeniura_lymma,Myliobatiformes,Dasyatidae,Taeniura,Bat,Extant,Taeni_lym,1,20,10.5,LC,Reef,Undul
+'Torpedo fuscomaculata CAS-ICH 32550.jpg',CAS-ICH 32550,Torpedo fuscomaculata ,Torpedo_fuscomaculata,Torpediniformes,Torpedinidae,Torpedo,Bat,Extant,Torpe_fus,0,439,219.5,DD,Reef,AxUnd
+'Torpedo fuscomaculata CAS-ICH 58380.jpg',CAS-ICH 58380,Torpedo fuscomaculata ,Torpedo_fuscomaculata,Torpediniformes,Torpedinidae,Torpedo,Bat,Extant,Torpe_fus,0,439,219.5,DD,Reef,AxUnd
+'Torpedo fuscomaculata USNMRAD 320677.jpg',USNM 320677 ,Torpedo fuscomaculata ,Torpedo_fuscomaculata,Torpediniformes,Torpedinidae,Torpedo,Bat,Extant,Torpe_fus,0,439,219.5,DD,Reef,AxUnd
+'Torpedo mackayana USNMRAD 110902-001.jpg',USNM RAD 110902,Torpedo mackayana ,Torpedo_mackayana,Torpediniformes,Torpedinidae,Torpedo,Bat,Extant,Torpe_mac,30,50,40,EN,Shelf,AxUnd
+'Torpedo nobiliana USNMRAD 205358.jpg',USNM 205358 ,Tetronarce nobiliana ,Torpedo_nobiliana,Torpediniformes,Torpedinidae,Tetronarce,Bat,Extant,Tetro_nob,2,800,401,LC,Shelf,AxUnd
+'Torpedo torpedo BMNH72261 1ZJ.jpg',NHMUK 72261,Torpedo torpedo,Torpedo_torpedo,Torpediniformes,Torpedinidae,Torpedo,Bat,Extant,Torpe_tor,2,400,201,VU,Shelf,AxUnd
+'Torpedo torpedo USNMRAD 110901-001.jpg',USNM RAD 110901,Torpedo torpedo,Torpedo_torpedo,Torpediniformes,Torpedinidae,Torpedo,Bat,Extant,Torpe_tor,2,400,201,VU,Shelf,AxUnd
+'Trygon brachyura BMNH 18792124.jpg',NHMUK ZOO 1879.2.12.4,Potamotrygon brachyura ,Potamotrygon_brachyura,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_bra,7,10,8.5,DD,FreshW,Undul
+'Trygon brevis MCZIchS-371_1.jpg',MCZ Ichthyology S-371,Hypanus dipterurus ,Dasyatis_dipterura,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_dip,10,355,182.5,VU,Shelf,Undul
+'Trygon brevis MCZIchS-371_2.jpg',MCZ Ichthyology S-371,Hypanus dipterurus ,Dasyatis_dipterura,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_dip,10,355,182.5,VU,Shelf,Undul
+'Trygon brevis MCZIchS-371_3.jpg',MCZ Ichthyology S-371,Hypanus dipterurus ,Dasyatis_dipterura,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_dip,10,355,182.5,VU,Shelf,Undul
+'Trygon heterurus BMNH 18671128158.jpg',NHMUK ZOO 1867.11.28.158,Brevitrygon heterura ,Himantura_walga,Myliobatiformes,Dasyatidae,Brevitrygon,Bat,Extant,Brevi_het,1,50,25.5,VU,Shelf,Undul
+'Trygon longa MCZIchS-126.jpg',MCZ Ichthyology S-126,Hypanus longus ,Dasyatis_longa,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_lon,0,100,50,VU,Reef,Undul
+'Trygon longa MCZIchS-554.jpg',MCZ Ichthyology S-554,Hypanus longus ,Dasyatis_longa,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_lon,0,100,50,VU,Reef,Undul
+'Trygon macurus BMNH 18671128160.jpg',NHMUK ZOO 1867.11.28.160,Maculabatis macrura ,Himantura_gerrardi,Myliobatiformes,Dasyatidae,Maculabatis,Bat,Extant,Macul_mac,0,60,30,EN,Shelf,Undul
+'Trygon pastinacoides BMNH 18671128161.jpg',NHMUK ZOO 1867.11.28.161 ,Maculabatis pastinacoides ,Himantura_pastinacoides,Myliobatiformes,Dasyatidae,Maculabatis,Bat,Extant,Macul_pas,0,60,30,EN,Shelf,Undul
+'Trygon punctata BMNH 195381015.jpg',NHMUK ZOO 1953.8.10.15,Himantura uarnak ,Himantura_uarnak,Myliobatiformes,Dasyatidae,Himantura,Bat,Extant,Himan_uar,20,50,35,EN,Reef,Undul
+'Trygon undulata BMNH 18671128156.jpg',NHMUK ZOO 1867.11.28.156,Himantura undulata ,Himantura_undulata,Myliobatiformes,Dasyatidae,Himantura,Bat,Extant,Himan_und,0,70,35,EN,Shelf,Undul
+'Tygon reticulatus BMNH 18703101.jpg',NHMUK ZOO 1870.3.10.1,Potamotrygon orbignyi ,Potamotrygon_orbignyi,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_orb,0,20,10,LC,FreshW,Undul
+'Urobatis concentricus USNMRAD 87539.jpg',USNM 87539 ,Urobatis concentricus ,Urobatis_concentricus,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_con,1,109,55,LC,Reef,Undul
+'Urobatis jamaicensis USNMRAD 116442.jpg',USNM 116442 ,Urobatis jamaicensis ,Urobatis_jamaicensis,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_jam,1,25,13,LC,Reef,Undul
+'Urolophus aspidurus USNM 29410.jpg',USNM 29410 ,Urotrygon aspidura ,Urotrygon_aspidura,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_asp,5,100,52.5,NT,Shelf,Undul
+'Urolophus aspidurus USNMRAD 29410.jpg',USNM 29410 ,Urotrygon aspidura ,Urotrygon_aspidura,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_asp,5,100,52.5,NT,Shelf,Undul
+'Urolophus asterias USNMRAD 28204.jpg',USNM 28204,Urotrygon munda ,Urotrygon_munda,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_mun,4,51,27.5,NT,Shelf,Undul
+'Urolophus asterias USNMRAD 29542.jpg',USNM 29542 ,Urotrygon munda ,Urotrygon_munda,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_mun,4,51,27.5,NT,Shelf,Undul
+'Urolophus chilensis BMNH 1871913119.jpg',NHMUK ZOO 1871.9.13.119,Urotrygon chilensis ,Urotrygon_chilensis,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_chi,1,60,30.5,NT,Shelf,Undul
+'Urolophus goodei USNMRAD 41150.jpg',USNM 41150 ,Urotrygon chilensis ,Urotrygon_chilensis,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_chi,1,60,30.5,NT,Shelf,Undul
+'Urolophus halleri USNMRAD 321516.jpg',USNM 321516 ,Urobatis halleri ,Urobatis_halleri,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_hal,0,91,45.5,LC,Shelf,Undul
+'Urolophus kaianus BMNH 1879514424.jpg',NHMUK ZOO 1879.5.14.424,Urolophus kaianus ,Urolophus_kaianus,Myliobatiformes,Urolophidae,Urolophus,Bat,Extant,Urolo_kai,0,236,118,DD,Deep,Undul
+'Urolophus kaianus BMNH 1890226205.jpg',NHMUK ZOO 1890.2.26.205,Urolophus kaianus ,Urolophus_kaianus,Myliobatiformes,Urolophidae,Urolophus,Bat,Extant,Urolo_kai,0,236,118,DD,Deep,Undul
+'Urolophus maculatus USNMRAD 119751.jpg',USNM 119751 ,Urobatis maculatus ,Urobatis_maculatus,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_mac,1,30,15.5,LC,Shelf,Undul
+'Urolophus maculatus USNMRAD 19731.jpg',USNM 19731 ,Urobatis maculatus ,Urobatis_maculatus,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_mac,1,30,15.5,LC,Shelf,Undul
+'Urolophus rogersi CAS-SU 11700.jpg',CAS-SU(ICH) 11700,Urotrygon rogersi ,Urotrygon_rogersi,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_rog,2,30,16,NT,Shelf,Undul
+'Urolophus umbrifer CAS-ICH SU 2948.jpg',CAS-SU(ICH) 2948,Urobatis halleri ,Urobatis_halleri,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_hal,0,91,45.5,LC,Reef,Undul
+'Urotrygon chilensis USNMRAD 131021.jpg',USNM 131021 ,Urotrygon chilensis ,Urotrygon_chilensis,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_chi,1,60,30.5,NT,Shelf,Undul
+'Urotrygon microphthalmum USNMRAD 222697 1.jpg',USNM 222697 ,Urotrygon microphthalmum ,Urotrygon_microphthalmum,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_mic,9,55,32,CR,Shelf,Undul
+'Urotrygon microphthalmum USNMRAD 222697 2.jpg',USNM 222697 ,Urotrygon microphthalmum ,Urotrygon_microphthalmum,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_mic,9,55,32,CR,Shelf,Undul
+'Urotrygon munda USNMRAD 206994.jpg',USNM 206994 ,Urotrygon munda ,Urotrygon_munda,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_mun,4,51,27.5,NT,Shelf,Undul
+'Urotrygon mundus USNMRAD109943 002.jpg',USNM RAD 109943 ,Urotrygon munda ,Urotrygon_munda,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_mun,4,51,27.5,NT,Shelf,Undul
+'Urotrygon mundus USNMRAD109943 003.jpg',USNM RAD 109943 ,Urotrygon munda ,Urotrygon_munda,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_mun,4,51,27.5,NT,Shelf,Undul
+'Urotrygon regersi NCat12-a.jpg',CAS-SU(ICH) 11700,Urotrygon rogersi ,Urotrygon_rogersi,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_rog,2,30,16,NT,Shelf,Undul
+'Urotrygon serrula USNM 127795.jpg',USNM 127795 ,Urotrygon munda ,Urotrygon_munda,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_ast,4,51,27.5,NT,Shelf,Undul
+'Urotrygon simulatrix USNMRAD 285187.jpg',USNM 285187 ,Urotrygon simulatrix ,Urotrygon_simulatrix,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_sim,2,15,8.5,VU,Shelf,Undul
+'Urotrygon umbrifer NCat13.jpg',Specimen without number,Urobatis halleri ,Urobatis_halleri,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_hal,0,91,45.5,LC,Shelf,Undul
+'Zanobatos schloenii ISPAB-Zan-sch-03.jpg',ISPAB-Zan-sch-03*,Zanobatus schoenleinii ,Zanobatus_schoenleinii,Myliobatiformes,Zanobatidae,Zanobatus,Bat,Extant,Zanob_sch,10,100,55,VU,Shelf,Undul
+'Zanobatus schoenleinii ISPAB-Zan-sch-04.jpg',ISPAB-Zan-sch-04*,Zanobatus schoenleinii ,Zanobatus_schoenleinii,Myliobatiformes,Zanobatidae,Zanobatus,Bat,Extant,Zanob_sch,10,100,55,VU,Shelf,Undul
+'Zapteryx xyster CAS-ICH 213445.jpg',CAS-ICH 213445,Zapteryx xyster ,Zapteryx_xyster,Rhinopristiformes,Trygonorrhinidae ,Zapteryx,Bat,Extant,Zapte_xys,0,150,75,VU,Reef,Undul
+'Zapteryx xyster USNMRAD 206992.jpg',USNM 206992 ,Zapteryx xyster ,Zapteryx_xyster,Rhinopristiformes,Trygonorrhinidae ,Zapteryx,Bat,Extant,Zapte_xys,0,150,75,VU,Reef,Undul
+'ZFos Aellopobatis 001BGMM1.jpg',Specimen without number,Aellopobatis bavarica,Aellopobatis_bavarica,Jbatoid,,Aellopobatis,Bat,Fossil,Aello_bav,1,100,50.5,NA,Reef,AxUnd
+'ZFos Aellopobatis 005BSPGASI505.jpg',SNSB-BSPG AS I 505 ,Aellopobatis bavarica,Aellopobatis_bavarica,Jbatoid,,Aellopobatis,Bat,Fossil,Aello_bav,1,100,50.5,NA,Reef,AxUnd
+'ZFos Aellopobatis 026hmns686037.jpg',HMNS 686037 ,Aellopobatis bavarica,Aellopobatis_bavarica,Jbatoid,,Aellopobatis,Bat,Fossil,Aello_bav,1,100,50.5,NA,Reef,AxUnd
+'ZFos Aellopobatis 028NHMLPVP6010.jpg',NHMUK PV P 6010,Aellopobatis bavarica,Aellopobatis_bavarica,Jbatoid,,Aellopobatis,Bat,Fossil,Aello_bav,1,100,50.5,NA,Reef,AxUnd
+'ZFos Aellopobatis 035Batoid1SMNK124365.jpg',SMNK 124365,Aellopobatis bavarica,Aellopobatis_bavarica,Jbatoid,,Aellopobatis,Bat,Fossil,Aello_bav,1,100,50.5,NA,Reef,AxUnd
+'ZFos Aellopobatis 089Berger2_2.jpg',MB 14-12-22-2,Aellopobatis bavarica,Aellopobatis_bavarica,Jbatoid,,Aellopobatis,Bat,Fossil,Aello_bav,1,100,50.5,NA,Reef,AxUnd
+'ZFos Asterodermus spatobatis P3170348.jpg',NHMUK PV P 10934,Asterodermus_platypterus,Asterodermus_platypterus,Jbatoid,,Asterodermus,Bat,Fossil,Astde_spa,1,100,50.5,NA,Reef,AxUnd
+'ZFos Asterotrygon maloneyi AMNH P 11557.tif',AMNH P 11557,Asterotrygon maloneyi,Asterotrygon_maloneyi,Eoc_Myliob,,Asterotrygon,Bat,Fossil,Aster_mal,1,60,30.5,NA,FreshW,Undul
+'ZFos Asterotrygon maloneyi FMNH PF 12989.tif',FMNH PF 12989,Asterotrygon maloneyi,Asterotrygon_maloneyi,Eoc_Myliob,,Asterotrygon,Bat,Fossil,Aster_mal,1,60,30.5,NA,FreshW,Undul
+'ZFos Asterotrygon maloneyi FMNH PF 14069.tif',FMNH PF 14069,Asterotrygon maloneyi,Asterotrygon_maloneyi,Eoc_Myliob,,Asterotrygon,Bat,Fossil,Aster_mal,1,60,30.5,NA,FreshW,Undul
+'ZFos Asterotrygon maloneyi FMNH PF 15166.tif',FMNH PF 15166,Asterotrygon maloneyi,Asterotrygon_maloneyi,Eoc_Myliob,,Asterotrygon,Bat,Fossil,Aster_mal,1,60,30.5,NA,FreshW,Undul
+'ZFos Belemnobatis sismondae 20015312 AnneliseFolie.jpg',MDC 20015312,Belemnobatis sismondae,Belemnobatis_sismondae,Jbatoid,,Belemnobatis,Bat,Fossil,Belem_sis,1,100,50.5,NA,Shelf,AxUnd
+'ZFos Belemnobatis sismondae AntoinePictet038774.jpg',MGL 38-774,Belemnobatis sismondae,Belemnobatis_sismondae,Jbatoid,,Belemnobatis,Bat,Fossil,Belem_sis,1,100,50.5,NA,Shelf,AxUnd
+'ZFos Cyclobatis longicaudatus MNHN HAK550a.jpg',MNHN.F.HAK550a ,Cyclobatis longicaudatus,Cyclobatis_longicaudatus,Cret_Rajif,,Cyclobatis,Bat,Fossil,Cyclo_lon,1,20,10.5,NA,Shelf,Undul
+'ZFos Cyclobatis major 1.jpg',Museo Civico di Storia Naturale di Milano,Cyclobatis mayor,Cyclobatis_mayor,Cret_Rajif,,Cyclobatis,Bat,Fossil,Cyclo_may,1,20,10.5,NA,Shelf,Undul
+'ZFos Cyclobatis oligodactylus JME-GPK-00010_20180216_131448.jpg',FMNH PF 13471 or 13477?,Cyclobatis oligodactylus,Cyclobatis_oligodactylus,Cret_Rajif,,Cyclobatis,Bat,Fossil,Cyclo_oli,1,20,10.5,NA,Shelf,Undul
+'ZFos Heliobatis radians AMNH P 19665.tif',AMNH P 19665,Heliobatis radians,Heliobatis_radians,Eoc_Myliob,,Heliobatis,Bat,Fossil,Helba_rad,1,60,30.5,NA,FreshW,Undul
+'ZFos Heliobatis radians FMNH PF 2020.tif',FMNH PF 2020,Heliobatis radians,Heliobatis_radians,Eoc_Myliob,,Heliobatis,Bat,Fossil,Helba_rad,1,60,30.5,NA,FreshW,Undul
+'ZFos Heliobatis2.JPG',FMNH PF 12914,Heliobatis radians,Heliobatis_radians,Eoc_Myliob,,Heliobatis,Bat,Fossil,Helba_rad,1,60,30.5,NA,FreshW,Undul
+'ZFos Lessiniabatis aenigmatica MNHN FBol566.jpg',MNHN FBol566,Lessiniabatis aenigmatica,Lessiniabatis_aenigmatica,Eoc_Myliob,,Lessiniabatis,Bat,Fossil,Lessi_aen,0,40,20,NA,Reef,Undul
+'ZFos Libanopristis hiram.JPG',NHMUK PV 75075,Libanopristis hiram,Libanopristis_hiram,Cret_Scle,,Libanopristis,Bat,Fossil,Liban_hir,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Libanopristis_hiram.jpeg',Museo Civico di Storia Naturale di Milano,Libanopristis hiram,Libanopristis_hiram,Cret_Scle,,Libanopristis,Bat,Fossil,Liban_hir,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Palaeodasybatis discus ANSP 8344.tif',ANSP 8344,Palaeodasybatis discus,Heliobatis_radians,Eoc_Myliob,,Palaeodasybatis,Bat,Fossil,Pdasy_dis,1,60,30.5,NA,FreshW,AxUnd
+'ZFos Phorcynis catulina NMHUKP11211.jpg',NHMUK PV P 11211 b,Phorcynis catulina,Phorcynis_catulina,J_Orec,,Phorcynis,Sel,Fossil,Phorc_cat,1,100,50.5,NA,Reef,AxUnd
+'ZFos Protospinax 20230228.jpg',PBP-SOL-8007 ,Protospinax annectans,Protospinax_annectans,J_Squat,,Protospinax,Sel,Fossil,Proto_ann,1,100,50.5,NA,Reef,AxUnd
+'ZFos Pseudorhina acanthoderma Lothe DSC0131.jpg',Sebastian,Pseudorhina acanthoderma,Pseudorhina_acanthoderma,J_Squat,,Pseudorhina,Sel,Fossil,Prhin_aca,1,100,50.5,NA,Reef,AxUnd
+'ZFos Pseudorhina acanthoderma SMNS 86214 41.jpg',SMNS 86214 41,Pseudorhina acanthoderma,Pseudorhina_acanthoderma,J_Squat,,Pseudorhina,Sel,Fossil,Prhin_aca,1,100,50.5,NA,Reef,AxUnd
+'ZFos Pseudorhina alifera JME no_number.jpg',Specimen without number,Pseudorhina alifera,Pseudorhina_alifera,J_Squat,,Pseudorhina,Sel,Fossil,Prhin_ali,1,100,50.5,NA,Reef,AxUnd
+'ZFos Ptychotrygon NHMUK PV P 73630.jpg',NHMUK PV P 73630,Ptychotrygon rostrispatula,Ptychotrygon_rostrispatula,Cret_Scle,,Ptychotrygon,Bat,Fossil,Ptych_ros,1,150,75.5,NA,Shelf,AxUnd
+'ZFos Rhinobatos hakelensis MNHN HAK2000b.jpg',MNHN.F.HAK2000b ,Rhinobatos hakelensis,Rhinobatus_haeckelensis,Cret_Rhino,,Rhinobatos,Bat,Fossil,Rhbat_hak,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Rhinobatos hakelensis.jpg',Sebastian,Rhinobatos hakelensis,Rhinobatus_haeckelensis,Cret_Rhino,,Rhinobatos,Bat,Fossil,Rhbat_hak,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Rhinobatos maronita MNHN HAK2006.jpg',MNHN.F.HAK2006 ,Rhinobatos maronita,Rhinobatos_maronita,Cret_Rhino,,Rhinobatos,Bat,Fossil,Rhbat_mar,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Rhinobatos maronita NHMUKP4012.jpg',NHMUK PV P 4012,Rhinobatos maronita,Rhinobatos_maronita,Cret_Rhino,,Rhinobatos,Bat,Fossil,Rhbat_mar,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Rhinobatos maronita NHMUKPVP495541.jpg',NHMUK PV P 495541,Rhinobatos maronita,Rhinobatos_maronita,Cret_Rhino,,Rhinobatos,Bat,Fossil,Rhbat_mar,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Rhinobatos whitfieldy NHMUKPVP63187.jpg',NHMUK PV P 63187,Rhinobatos whitfieldy,Rhinobatos_whitfieldy,Cret_Rhino,,Rhinobatos,Bat,Fossil,Rhbat_whi,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Rhinobatus latus P4014.JPG',NHMUK PV P 4014,Rhinobatus latus,Rhinobatus_latus,Cret_Rhino,,Rhinobatos,Bat,Fossil,Rhbat_lat,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Rhinobatus latus.jpg',NHMUK PV P 49513,Rhinobatus latus,Rhinobatus_latus,Cret_Rhino,,Rhinobatos,Bat,Fossil,Rhbat_lat,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Rhinobatus primatus NHM-UK PPV-OR-49517 1.jpg',NHMUK PV OR 49517,Britobatos primarmata ,Britobatos_primarmata,Cret_Rhino,,Britobatos,Bat,Fossil,Brito_pri,1,150,75.5,NA,Shelf,AxUnd
+'ZFos Rhombopterygia rajoides MNHN HDJ483.jpg',MNHN.F.HDJ483 ,Rhombopterygia rajoides,Rhombopterygia_rajoides,Cret_Rhino,,Rhombopterygia,Bat,Fossil,Rhomb_raj,1,100,50.5,NA,Shelf,AxUnd
+'ZFos Sclerorhynchus atavus NHM-UK PPV-P-4017 2.jpg',NHMUK PV P 4017,Sclerorhynchus atavus,Sclerorhynchus_atavus,Cret_Scle,,Sclerorhynchus,Bat,Fossil,Scler_ata,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Sclerorhynchus hiram SMNK Cret_Lebanon_1.JPG',Sebastian?,Sclerorhynchus hiram,Libanopristis_hiram,Cret_Scle,,Sclerorhynchus,Bat,Fossil,Scler_hir,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Sclerorhynchus hiram SMNK Cret_Lebanon_2.JPG',Sebastian?,Sclerorhynchus hiram,Libanopristis_hiram,Cret_Scle,,Sclerorhynchus,Bat,Fossil,Scler_hir,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Spathobatis bugesiacus 046NHMLBMNHP2099.jpg',NHMUK PV P 2099,Spathobatis bugesiacus,Spathobatus,Jbatoid,,Spathobatis,Bat,Fossil,Spath_bug,1,100,50.5,NA,Reef,AxUnd
+'ZFos Spathobatis bugesiacus MHNL15307.jpg',MHNL 15307,Spathobatis bugesiacus,Spathobatus,Jbatoid,,Spathobatis,Bat,Fossil,Spath_bug,1,100,50.5,NA,Reef,AxUnd
+'ZFos Stahlaraja.jpg',UERJ-PMB P 400,Stahlraja sertanensis ,Stahlraja_sertanensis,Cret_Rhino,,Stahlraja,Bat,Fossil,Stahl_ser,1,60,30.5,NA,Shelf,AxUnd
+'ZFos Titanonarke molini.jpg',MGP-PD 26275/6 ,Titanonarke molini ,Titanonarke_molini,Eoc_Torp,,Titanonarke,Bat,Fossil,Titan_mol,0,40,20,NA,Reef,AxUnd
+'Anacanthobatis folirostris UF 40141.png',UF 40141,Springeria folirostris,Springeria_folirostris,Rajiformes,Anacanthobatidae,Springeria,Bat,Extant,Sprin_fol,,,,,Deep,Undul
+'Aptychotrema vincentiana CSIRO MUW 101.png',CSIRO MUW 101,Aptychotrema vincentiana,Aptychotrema_vincentiana,Rhinopristiformes,Trygonorrhinidae ,Aptychotrema,Bat,Extant,Aptyc_vin,,,,,Shelf,AxUnd
+'Brachaelurus waddi USNM 39998.png',USNM 39998,Brachaelurus waddi,Brachaelurus_waddi,Orectolobiformes,Brachaeluridae,Brachaelurus,Sel,Extant,Brach_wad,,,,,Reef,AxUnd
+'Dasyatis americana CToL.png',C_T_o_L,Hypanus americanus,Dasyatis_americana,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_ama,,,,,Reef,Undul
+'Dasyatis zugei AMNH 258174.png',AMNH 258174,Telatrygon zugei ,Dasyatis_zugei,Myliobatiformes,Dasyatidae,Telatrygon,Bat,Extant,Telat_zug,,,,,Shelf,Undul
+'Eucrossorhinus dasypogon RMNH_PISC_7411.png',RMNH PISC 7411,Eucrossorhinus dasypogon,Eucrossorhinus_dasypogon,Orectolobiformes,Orectolobidae,Eucrossorhinus,Sel,Extant,Eucro_das,,,,,Reef,AxUnd
+'Gymnura altavela CToL.png',C_T_o_L,Gymnura altavela,Gymnura_altavela,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_alt,,,,,Shelf,Oscil
+'Hypnos monopterygius USNM 84374.png',USNM 84374,Hypnos monopterygius ,Hypnos_monopterygius,Torpediniformes,Hypnidae,Hypnos,Bat,Extant,Hypno_mon,,,,,Reef,AxUnd
+'Irolita waitii CToL.png',C_T_o_L,Irolita waitii,Irolita_waitii,Rajiformes,Arhynchobatidae,Irolita,Bat,Extant,Iroli_wai,,,,,Shelf,Undul
+'Mobula munkiana SIO 85-34.png',SIO 85-34,Mobula munkiana,Mobula_munkiana,Myliobatiformes,Mobulidae,Mobula,Bat,Extant,Mobul_mun,,,,,Shelf,Oscil
+'Narcine brasiliensis CToL.png',C_T_o_L,Narcine bancroftii ,Narcine_bancroftii,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ban,,,,,Shelf,AxUnd
+'Narke japonica HO-208.png',HO-208,Narke japonica,Narke_japonica,Torpediniformes,Narkidae,Narke,Bat,Extant,Narke_jap,,,,,Reef,AxUnd
+'Neotrygon kuhlii CToL.png',C_T_o_L,Neotrygon kuhlii ,Neotrygon_kuhlii,Myliobatiformes,Dasyatidae,Neotrygon,Bat,Extant,Neotr_kuh,,,,,Reef,Undul
+'Orectolobus maculatus USNM 50725.png',USNM 50725 ,Orectolobus maculatus,Orectolobus_maculatus,Orectolobiformes,Orectolobidae,Orectolobus,Sel,Extant,Orec_mac,,,,,Reef,AxUnd
+'Potamotrygon motoro AMNH97428.png',AMNH 97428,Potamotrygon motoro ,Potamotrygon_motoro,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_mot,,,,,FreshW,Undul
+'Pristiophorus nudipinnis_CSIRO GT 373.png',CSIRO GT 373,Pristiophorus nudipinnis ,Pristiophorus_nudipinnis,Pristiophoriformes,Pristiophoridae,Pristiophorus,Sel,Extant,Pphor_nud,,,,,Shelf,AxUnd
+'Pteromylaeus bovinus USNM 202763.png',USNM 202763 ,Aetomylaeus bovinus,Pteromylaeus_bovinus,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_bov,,,,,Shelf,Oscil
+'Raja eglanteria CToL.png',C_T_o_L,Rostroraja eglanteria,Raja_eglanteria,Rajiformes,Rajidae,Rostroraja,Bat,Extant,Rostr_egl,,,,,Shelf,Undul
+'Rhina ancylostoma LACM 38117-38.png',LACM 38117-38,Rhina ancylostomus ,Rhina_ancylostoma,Rhinopristiformes,Rhinidae,Rhina,Bat,Extant,Rhina_anc,,,,,Reef,AxUnd
+'Rhinoptera bonasus GMBL 73.png',GMBL 73,Rhinoptera bonasus,Rhinoptera_bonasus,Myliobatiformes,Rhinopteridae,Rhinoptera,Bat,Extant,Rhino_bon,,,,,Shelf,Oscil
+'Rhynchobatus springeri HO 180.png',HO 180,Rhynchobatus springeri ,Rhynchobatus_springeri,Rhinopristiformes,Rhinidae,Rhynchobatus,Bat,Extant,Rhync_spr,,,,,Shelf,AxUnd
+'Squatina nebulosa AMNH 258172.png',AMNH 258172,Squatina nebulosa,Squatina_nebulosa,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_neb,,,,,Shelf,AxUnd
+'Squatina squatina RMNH_PISC_24047.png',RMNH PISC 24047,Squatina squatina,Squatina_squatina,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_squ,,,,,Shelf,AxUnd
+'Squatina squatina RMNH_PISC_24270.png',RMNH PISC 24270,Squatina squatina,Squatina_squatina,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_squ,,,,,Shelf,AxUnd
+'Torpedo fuscomaculata CToL.png',C_T_o_L,Torpedo fuscomaculata ,Torpedo_fuscomaculata,Torpediniformes,Torpedinidae,Torpedo,Bat,Extant,Torpe_fus,,,,,Reef,AxUnd
+'Urolophus aurantiacus AMNH 258305.png',AMNH 258305,Urolophus aurantiacus ,Urolophus_aurantiacus,Myliobatiformes,Urolophidae,Urolophus,Bat,Extant,Urolo_aur,,,,,Shelf,Undul
+'Zanobatus NCat Unk.jpg',MNHN 1989.12.91 ,Zanobatus schoenleinii ,Zanobatus_schoenleinii,Myliobatiformes,Zanobatidae,Zanobatus,Bat,Extant,Zanob_sch,,,,,Shelf,Undul
+'Zanobatus schoenleinii UF 176858.png',UF 176858,Zanobatus schoenleinii ,Zanobatus_schoenleinii,Myliobatiformes,Zanobatidae,Zanobatus,Bat,Extant,Zanob_sch,,,,,Shelf,Undul
+'Hypnos monopterygius MCZIchS-984.png',MCZ Ichthyology S-984,Hypnos monopterygius ,Hypnos_monopterygius,Torpediniformes,Hypnidae,Hypnos,Bat,Extant,Hypno_mon,,,,,Reef,AxUnd
+'Taeniura lymma TCWC_Ichthyology4463_01.png',TCWC Ichthyology 4463 01,Taeniura lymma ,Taeniura_lymma,Myliobatiformes,Dasyatidae,Taeniura,Bat,Extant,Taeni_lym,,,,,Reef,Undul
+TlalocbatusDSC05218.JPG,IGM 5853,Tlalocbatos applegatei,Tlalocbatus,Cret_Rhino,Trygonorrhinidae ,Tlalocbatos,Bat,Fossil,Tlalo_app,,,,,Reef,AxUnd
