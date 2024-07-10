@@ -1,0 +1,212 @@
+AccName,TreeName2,Order,OrderFos,Family,Genus,SO,EF,SpeLab,DepthCat3,Mov
+Acroteriobatus_annulatus,Acroteriobatus_annulatus,Rhinopristiformes,Rhinopristiformes,Rhinobatidae,Acroteriobatos,Bat,Extant,Acrot_ann,Shelf,AxUnd
+Acroteriobatus_leucospilus,Acroteriobatus_leucospilus,Rhinopristiformes,Rhinopristiformes,Rhinobatidae,Acroteriobatos,Bat,Extant,Acrot_leu,Shelf,AxUnd
+Acroteriobatus_ocellatus,Acroteriobatus_ocellatus,Rhinopristiformes,Rhinopristiformes,Rhinobatidae,Acroteriobatos,Bat,Extant,Acrot_oce,Shelf,AxUnd
+Acroteriobatus_zanzibarensis,Acroteriobatus_zanzibarensis,Rhinopristiformes,Rhinopristiformes,Rhinobatidae,Acroteriobatos,Bat,Extant,Acrot_zan,Shelf,AxUnd
+Aellopobatis_bavarica,Aellopobatis_bavarica,JrBat,JurBatoid,,Aellopobatis,Bat,Fossil,Aello_bav,Reef,AxUnd
+Aetobatus_narinari,Aetobatus_narinari,Myliobatiformes,Myliobatiformes,Myliobatidae,Aetobatus,Bat,Extant,Aetob_nar,Shelf,Oscil
+Aetomylaeus_maculatus,Aetomylaeus_maculatus,Myliobatiformes,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_mac,Reef,Oscil
+Aetomylaeus_milvus,Aetomylaeus_milvus,Myliobatiformes,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_mil,Shelf,Oscil
+Aetomylaeus_nichofii,Aetomylaeus_nichofii,Myliobatiformes,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_nic,Shelf,Oscil
+Aetomylaeus_wafickii,Aetomylaeus_wafickii,Myliobatiformes,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_waf,Shelf,Oscil
+Amblyraja_georgiana,Amblyraja_georgiana,Rajiformes,Rajiformes,Rajidae,Amblyraja,Bat,Extant,Ambly_geo,Deep,Undul
+Amblyraja_radiata,Amblyraja_radiata,Rajiformes,Rajiformes,Rajidae,Amblyraja,Bat,Extant,Ambly_rad,Deep,Undul
+Springeria_folirostris,Springeria_folirostris,Rajiformes,Rajiformes,Anacanthobatidae,Springeria,Bat,Extant,Sprin_fol,Deep,Undul
+Springeria_longirostris,Springeria_longirostis,Rajiformes,Rajiformes,Anacanthobatidae,Springeria,Bat,Extant,Sprin_lon,Deep,Undul
+Indobatis_ori,Indobatis_ori,Rajiformes,Rajiformes,Anacanthobatidae,Indobatis,Bat,Extant,Indob_ori ,Deep,Undul
+Anoxypristis_cuspidata,Anoxypristis_cuspidata,Rhinopristiformes,Rhinopristiformes,Pristidae,Anoxypristis,Bat,Extant,Anoxy_cus,Shelf,AxUnd
+Aptychotrema_vincentiana,Aptychotrema_vincentiana,Rhinopristiformes,Rhinopristiformes,Trygonorrhinidae ,Aptychotrema,Bat,Extant,Aptyc_vin,Shelf,AxUnd
+Asterodermus_platypterus,Asterodermus_platypterus,JrBat,JurBatoid,,Asterodermus,Bat,Fossil,Astde_spa,Reef,AxUnd
+Asterotrygon_maloneyi,Asterotrygon_maloneyi,EoMylio,Myliobatiformes,,Asterotrygon,Bat,Fossil,Aster_mal,Freshwater,Undul
+Atlantoraja_castelnaui,Atlantoraja_castelnaui,Rajiformes,Rajiformes,Arhynchobatidae,Atlantoraja,Bat,Extant,Atlan_cas,Shelf,Undul
+Atlantoraja_cyclophora,Atlantoraja_cyclophora,Rajiformes,Rajiformes,Arhynchobatidae,Atlantoraja,Bat,Extant,Atlan_cyc,Shelf,Undul
+Atlantoraja_platana,Atlantoraja_platana,Rajiformes,Rajiformes,Arhynchobatidae,Atlantoraja,Bat,Extant,Atlan_pla,Shelf,Undul
+Bathyraja_abyssicola,Bathyraja_abyssicola,Rajiformes,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_aby,Deep,Undul
+Bathyraja_aguja,Bathyraja_aguja,Rajiformes,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_agu,Deep,Undul
+Bathyraja_aleutica,Bathyraja_aleutica,Rajiformes,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_ale,Deep,Undul
+Bathyraja_kincaidii,Bathyraja_kincaidii,Rajiformes,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_kin,Deep,Undul
+Bathyraja_maccaini,Bathyraja_maccaini,Rajiformes,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_mac,Deep,Undul
+Belemnobatis sismondae,Belemnobatis_sismondae,JrBat,JurBatoid,,Belemnobatis,Bat,Fossil,Belem_sis,Shelf,AxUnd
+Benthobatis marcida,Benthobatis_marcida,Torpediniformes,Torpediniformes,Narcinidae,Benthobatis,Bat,Extant,Benth_mar,Deep,AxUnd
+Beringraja binoculata ,Beringraja_binoculata,Rajiformes,Rajiformes,Rajidae,Beringraja,Bat,Extant,Berin_bin,Deep,Undul
+Brachaelurus waddi,Brachaelurus_waddi,Orectolobiformes,Orectolobiformes,Brachaeluridae,Brachaelurus,Sel,Extant,Brach_wad,Reef,AxUnd
+Breviraja claramaculata,Breviraja_claramaculata,Rajiformes,Rajiformes,Rajidae,Breviraja,Bat,Extant,Brevi_cla,Deep,Undul
+Breviraja colesi,Breviraja_colesi,Rajiformes,Rajiformes,Rajidae,Breviraja,Bat,Extant,Brevi_col,Deep,Undul
+Breviraja spinosa,Breviraja_spinosa,Rajiformes,Rajiformes,Rajidae,Breviraja,Bat,Extant,Brevi_spi,Deep,Undul
+Britobatos primarmata ,Britobatos_primarmata,CrRhin,Rhinopristiformes,,Britobatos,Bat,Fossil,Brito_pri,Shelf,AxUnd
+Cruriraja cadenati,Cruriraja_cadenati,Rajiformes,Rajiformes,Gurgesiellidae,Cruriraja,Bat,Extant,Cruri_cad,Deep,Undul
+Cruriraja parcomaculata ,Cruriraja_parcomaculata,Rajiformes,Rajiformes,Gurgesiellidae,Cruriraja,Bat,Extant,Cruri_par,Deep,Undul
+Cruriraja poeyi,Cruriraja_poeyi,Rajiformes,Rajiformes,Gurgesiellidae,Cruriraja,Bat,Extant,Cruri_poe,Deep,Undul
+Cruriraja rugosa,Cruriraja_rugosa,Rajiformes,Rajiformes,Gurgesiellidae,Cruriraja,Bat,Extant,Cruri_rug,Deep,Undul
+Cyclobatis longicaudatus,Cyclobatis_longicaudatus,CrRaji,Rajiformes,,Cyclobatis,Bat,Fossil,Cyclo_lon,Shelf,Undul
+Cyclobatis mayor,Cyclobatis_mayor,CrRaji,Rajiformes,,Cyclobatis,Bat,Fossil,Cyclo_may,Shelf,Undul
+Cyclobatis oligodactylus,Cyclobatis_oligodactylus,CrRaji,Rajiformes,,Cyclobatis,Bat,Fossil,Cyclo_oli,Shelf,Undul
+Dactylobatus armatus,Dactylobatus_armatus,Rajiformes,Rajiformes,Rajidae,Dactylobatus,Bat,Extant,Dacty_arm,Deep,Undul
+Dactylobatus clarkii ,Dactylobatus_clarkii,Rajiformes,Rajiformes,Rajidae,Dactylobatus,Bat,Extant,Dacty_cla,Deep,Undul
+Hypanus americanus,Dasyatis_americana,Myliobatiformes,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_ama,Reef,Undul
+Hemitrygon bennettii ,Dasyatis_bennetti,Myliobatiformes,Myliobatiformes,Dasyatidae,Hemitrygon,Bat,Extant,Hemit_ben,Shelf,Undul
+Bathytoshia centroura ,Dasyatis_centroura,Myliobatiformes,Myliobatiformes,Dasyatidae,Bathytoshia,Bat,Extant,Btosh_cen,Shelf,Undul
+Hypanus dipterurus ,Dasyatis_dipterura,Myliobatiformes,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_dip,Shelf,Undul
+Hypanus longus ,Dasyatis_longa,Myliobatiformes,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_lon,Reef,Undul
+Fontitrygon margarita ,Dasyatis_margarita,Myliobatiformes,Myliobatiformes,Dasyatidae,Fontitrygon,Bat,Extant,Fonti_mar,Shelf,Undul
+Fontitrygon margaritella ,Dasyatis_margaritella,Myliobatiformes,Myliobatiformes,Dasyatidae,Fontitrygon,Bat,Extant,Fonti_mla ,Shelf,Undul
+Hypanus rudis,Dasyatis_rudis,Myliobatiformes,Myliobatiformes,Dasyatidae,Hypanus,Bat,Extant,Hypan_rud,Shelf,Undul
+Hypanus sabinus ,Dasyatis_sabina,Myliobatiformes,Myliobatiformes,Dasyatidae,Fontitrygon,Bat,Extant,Hypan_sab,Shelf,Undul
+Telatrygon zugei ,Dasyatis_zugei,Myliobatiformes,Myliobatiformes,Dasyatidae,Telatrygon,Bat,Extant,Telat_zug,Shelf,Undul
+Diplobatis ommata,Diplobatis_ommata,Torpediniformes,Torpediniformes,Narcinidae,Diplobatis,Bat,Extant,Diplo_omm,Reef,AxUnd
+Diplobatis picta,Diplobatis_pictus,Torpediniformes,Torpediniformes,Narcinidae,Diplobatis,Bat,Extant,Diplo_pic,Shelf,AxUnd
+Dipturus garricki ,Dipturus_garricki,Rajiformes,Rajiformes,Rajidae,Dipturus,Bat,Extant,Diptu_gar,Deep,Undul
+Zearaja brevicaudatus,Dipturus_lamillai,Rajiformes,Rajiformes,Rajidae,Dipturus,Bat,Extant,Diptu_lam,Deep,Undul
+Dipturus olseni,Dipturus_olseni,Rajiformes,Rajiformes,Rajidae,Dipturus,Bat,Extant,Diptu_ols,Deep,Undul
+Dipturus teevani ,Dipturus_teevani,Rajiformes,Rajiformes,Rajidae,Dipturus,Bat,Extant,Diptu_tee,Deep,Undul
+Eucrossorhinus dasypogon,Eucrossorhinus_dasypogon,Orectolobiformes,Orectolobiformes,Orectolobidae,Eucrossorhinus,Sel,Extant,Eucro_das,Reef,AxUnd
+Fenestraja cubensis,Fenestraja_cubensis,Rajiformes,Rajiformes,Gurgesiellidae,Fenestraja,Bat,Extant,Fenes_cub,Deep,Undul
+Fenestraja ishiyamai ,Fenestraja_ishiyamai,Rajiformes,Rajiformes,Rajidae,Fenestraja,Bat,Extant,Fenes_ish,Deep,Undul
+Fenestraja plutonia,Fenestraja_plutonia,Rajiformes,Rajiformes,Gurgesiellidae,Fenestraja,Bat,Extant,Fenes_plu,Deep,Undul
+Fenestraja sinusmexicanus,Fenestraja_sinusmexicanus,Rajiformes,Rajiformes,Gurgesiellidae,Fenestraja,Bat,Extant,Fenes_sin,Deep,Undul
+Glaucostegus cemiculus ,Glaucostegus_cemiculus,Rhinopristiformes,Rhinopristiformes,Glaucostegidae,Glaucostegus,Bat,Extant,Glauc_cem,Shelf,AxUnd
+Glaucostegus granulatus ,Glaucostegus_granulatus,Rhinopristiformes,Rhinopristiformes,Glaucostegidae,Glaucostegus,Bat,Extant,Glauc_gra,Shelf,AxUnd
+Glaucostegus thouin,Glaucostegus_thouin,Rhinopristiformes,Rhinopristiformes,Glaucostegidae,Glaucostegus,Bat,Extant,Glauc_tho,Shelf,AxUnd
+Glaucostegus typus,Glaucostegus_typus,Rhinopristiformes,Rhinopristiformes,Glaucostegidae,Glaucostegus,Bat,Extant,Glauc_typ,Shelf,AxUnd
+Gurgesiella atlantica,Gurgesiella_atlantica,Rajiformes,Rajiformes,Gurgesiellidae,Gurgesiella,Bat,Extant,Gurge_atl,Deep,Undul
+Gurgesiella furvescens,Gurgesiella_furvescens,Rajiformes,Rajiformes,Gurgesiellidae,Gurgesiella,Bat,Extant,Gurge_fur,Deep,Undul
+Gymnura altavela,Gymnura_altavela,Myliobatiformes,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_alt,Shelf,Oscil
+Gymnura australis,Gymnura_australis,Myliobatiformes,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_aus,Shelf,Oscil
+Gymnura crebripunctata,Gymnura_crebripunctata,Myliobatiformes,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_cre,Shelf,Oscil
+Gymnura japonica,Gymnura_japonica,Myliobatiformes,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_jap,Shelf,Oscil
+Gymnura marmorata ,Gymnura_marmorata,Myliobatiformes,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_mar,Shelf,Oscil
+Gymnura poecilura,Gymnura_poecilura,Myliobatiformes,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_poe,Reef,Oscil
+Gymnura tentaculata,Gymnura_tentaculata,Myliobatiformes,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_ten,Shelf,Oscil
+Gymnura zonurus ,Gymnura_zonura,Myliobatiformes,Myliobatiformes,Gymnuridae,Gymnura,Bat,Extant,Gymnu_zon,Reef,Oscil
+Heliobatis radians,Heliobatis_radians,EoMylio,Myliobatiformes,,Heliobatis,Bat,Fossil,Helba_rad,Freshwater,Undul
+Heliotrygon gomesi,Heliotrygon_gomesi,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Heliotrygon,Bat,Extant,Helio_gom,Freshwater,Undul
+Hexatrygon bickelli ,Hexatrygon_bickelli,Myliobatiformes,Myliobatiformes,Hexatrygonidae,Hexatrygon,Bat,Extant,Hexat_bic,Deep,Undul
+Maculabatis macrura ,Himantura_gerrardi,Myliobatiformes,Myliobatiformes,Dasyatidae,Maculabatis,Bat,Extant,Macul_mac,Shelf,Undul
+Maculabatis pastinacoides ,Himantura_pastinacoides,Myliobatiformes,Myliobatiformes,Dasyatidae,Maculabatis,Bat,Extant,Macul_pas,Shelf,Undul
+Styracura schmardae ,Himantura_schmardae,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Styracura,Bat,Extant,Styra_sch,Shelf,Undul
+Fluvitrygon signifer ,Himantura_signifer,Myliobatiformes,Myliobatiformes,Dasyatidae,Fluvitrygon,Bat,Extant,Fluvi_sig,Freshwater,Undul
+Pateobatis bleekeri ,Himantura_uarnacoides,Myliobatiformes,Myliobatiformes,Dasyatidae,Pateobatis,Bat,Extant,Pateo_ble,Shelf,Undul
+Himantura uarnak,Himantura_uarnak,Myliobatiformes,Myliobatiformes,Dasyatidae,Himantura,Bat,Extant,Himan_uar,Reef,Undul
+Himantura undulata ,Himantura_undulata,Myliobatiformes,Myliobatiformes,Dasyatidae,Himantura,Bat,Extant,Himan_und,Shelf,Undul
+Brevitrygon walga ,Himantura_walga,Myliobatiformes,Myliobatiformes,Dasyatidae,Brevitrygon,Bat,Extant,Brevi_wal,Shelf,Undul
+Hypnos monopterygius ,Hypnos_monopterygius,Torpediniformes,Torpediniformes,Hypnidae,Hypnos,Bat,Extant,Hypno_mon,Reef,AxUnd
+Irolita waitii,Irolita_waitii,Rajiformes,Rajiformes,Arhynchobatidae,Irolita,Bat,Extant,Iroli_wai,Shelf,Undul
+Lessiniabatis aenigmatica,Lessiniabatis_aenigmatica,EoMylio,Myliobatiformes,,Lessiniabatis,Bat,Fossil,Lessi_aen,Reef,Undul
+Leucoraja erinaceus,Leucoraja_erinacea,Rajiformes,Rajiformes,Rajidae,Leucoraja,Bat,Extant,Leuco_eri,Deep,Undul
+Leucoraja melitensis ,Leucoraja_melitensis,Rajiformes,Rajiformes,Rajidae,Leucoraja,Bat,Extant,Leuco_mel,Deep,Undul
+Leucoraja ocellata,Leucoraja_ocellata,Rajiformes,Rajiformes,Rajidae,Leucoraja,Bat,Extant,Leuco_oce,Deep,Undul
+Libanopristis hiram,Libanopristis_hiram,CrScle,Schlerorhynch,,Libanopristis,Bat,Fossil,Liban_hir,Shelf,AxUnd
+Malacoraja senta ,Malacoraja_senta,Rajiformes,Rajiformes,Rajidae,Malacoraja,Bat,Extant,Malac_sen,Deep,Undul
+Malacoraja spinacidermis ,Malacoraja_spinacidermis,Rajiformes,Rajiformes,Rajidae,Malacoraja,Bat,Extant,Malac_spi,Deep,Undul
+Mobula munkiana,Mobula_munkiana,Myliobatiformes,Myliobatiformes,Mobulidae,Mobula,Bat,Extant,Mobul_mun,Shelf,Oscil
+Myliobatis californica ,Myliobatis_californicus,Myliobatiformes,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_cal,Shelf,Oscil
+Myliobatis freminvillei ,Myliobatis_freminvillei,Myliobatiformes,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_fre,Shelf,Oscil
+Myliobatis goodei ,Myliobatis_goodei,Myliobatiformes,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_goo,Shelf,Oscil
+Myliobatis tobijei,Myliobatis_tobijei,Myliobatiformes,Myliobatiformes,Myliobatidae,Myliobatis,Bat,Extant,Mylio_tob,Shelf,Oscil
+Narcine bancroftii ,Narcine_bancroftii,Torpediniformes,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ban,Shelf,AxUnd
+Narcine entemedor ,Narcine_entemedor,Torpediniformes,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ent,Shelf,AxUnd
+Narcine leoparda,Narcine_leoparda,Torpediniformes,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_leo,Shelf,AxUnd
+Narcine oculifera ,Narcine_oculifera,Torpediniformes,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ocu,Shelf,AxUnd
+Narcine timlei ,Narcine_timlei,Torpediniformes,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_tim,Shelf,AxUnd
+Narcine vermiculata ,Narcine_vermiculata,Torpediniformes,Torpediniformes,Narcinidae,Narcine,Bat,Extant,Narci_ver,Shelf,AxUnd
+Narke japonica,Narke_japonica,Torpediniformes,Torpediniformes,Narkidae,Narke,Bat,Extant,Narke_jap,Reef,AxUnd
+Neotrygon kuhlii ,Neotrygon_kuhlii,Myliobatiformes,Myliobatiformes,Dasyatidae,Neotrygon,Bat,Extant,Neotr_kuh,Reef,Undul
+Notoraja tobitukai ,Notoraja_tobitukai,Rajiformes,Rajiformes,Arhynchobatidae,Notoraja,Bat,Extant,Notor_tob,Deep,Undul
+Okamejei hollandi ,Okamejei_hollandi,Rajiformes,Rajiformes,Rajidae,Okamejei,Bat,Extant,Okame_hol,Shelf,Undul
+Okamejei kenojei ,Okamejei_kenojei,Rajiformes,Rajiformes,Rajidae,Okamejei,Bat,Extant,Okame_ken,Shelf,Undul
+Orectolobus maculatus,Orectolobus_maculatus,Orectolobiformes,Orectolobiformes,Orectolobidae,Orectolobus,Sel,Extant,Orec_mac,Reef,AxUnd
+Paratrygon aiereba,Paratrygon_aiereba,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Paratrygon,Bat,Extant,Parat_aie,Freshwater,Undul
+Pastinachus ater ,Pastinachus_atrus,Myliobatiformes,Myliobatiformes,Dasyatidae,Pastinachus,Bat,Extant,Pasti_ate,Reef,Undul
+Pastinachus sephen ,Pastinachus_sephen,Myliobatiformes,Myliobatiformes,Dasyatidae,Pastinachus,Bat,Extant,Pasti_sep,Reef,Undul
+Phorcynis catulina,Phorcynis_catulina,JrOrec,Orectolobiformes,,Phorcynis,Sel,Fossil,Phorc_cat,Reef,AxUnd
+Platyrhina sinensis ,Platyrhina_sinensis,Torpediniformes,Torpediniformes,Platyrhinidae,Platyrhina,Bat,Extant,Platy_sin,Shelf,AxUnd
+Platyrhinoidis triseriata ,Platyrhinoidis_triseriata,Torpediniformes,Torpediniformes,Platyrhinidae,Platyrhinoidis,Bat,Extant,Pidis_tri,Shelf,AxUnd
+Plesiotrygon iwamae ,Plesiotrygon_iwamae,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Plesiotrygon,Bat,Extant,Plesi_iwa,Freshwater,Undul
+Pliotrema warreni ,Pliotrema_warreni,Pristiophoriformes,Pristiophoriformes,Pristiophoridae,Pliotrema,Sel,Extant,Pliot_war,Deep,AxUnd
+Potamotrygon boesemani ,Potamotrygon_boesemani,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_boe,Freshwater,Undul
+Potamotrygon brachyura ,Potamotrygon_brachyura,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_bra,Freshwater,Undul
+Potamotrygon constellata ,Potamotrygon_constellata,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_con,Freshwater,Undul
+Potamotrygon humerosa ,Potamotrygon_humerosa,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_hum,Freshwater,Undul
+Potamotrygon hystrix ,Potamotrygon_hystrix,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_hys,Freshwater,Undul
+Potamotrygon leopoldi ,Potamotrygon_leopoldi,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_leo,Freshwater,Undul
+Potamotrygon motoro ,Potamotrygon_motoro,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_mot,Freshwater,Undul
+Potamotrygon orbignyi ,Potamotrygon_orbignyi,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_orb,Freshwater,Undul
+Potamotrygon signata ,Potamotrygon_signata,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_sig,Freshwater,Undul
+Potamotrygon yepezi ,Potamotrygon_yepezi,Myliobatiformes,Myliobatiformes,Potamotrygonidae,Potamotrygon,Bat,Extant,Potam_yep,Freshwater,Undul
+Pristiophorus japonicus,Pristiophorus_japonicus,Pristiophoriformes,Pristiophoriformes,Pristiophoridae,Pristiophorus,Sel,Extant,Pphor_jap,Deep,AxUnd
+Pristiophorus_lanae,Pristiophorus_lanae,Pristiophoriformes,Pristiophoriformes,Pristiophoridae,Pristiophorus,Sel,Extant,Pphor_lan,Shelf,AxUnd
+Pristiophorus nudipinnis ,Pristiophorus_nudipinnis,Pristiophoriformes,Pristiophoriformes,Pristiophoridae,Pristiophorus,Sel,Extant,Pphor_nud,Shelf,AxUnd
+Pristis pectinata,Pristis_pectinata,Rhinopristiformes,Rhinopristiformes,Pristidae,Pristis,Bat,Extant,Prist_pec,Shelf,AxUnd
+Pristis pristis ,Pristis_pristis,Rhinopristiformes,Rhinopristiformes,Pristidae,Pristis,Bat,Extant,Prist_pri,Shelf,AxUnd
+Protospinax annectans,Protospinax_annectans,JrSqua,Squatiniformes,,Protospinax,Sel,Fossil,Proto_ann,Reef,AxUnd
+Psammobatis rudis ,Psammobatis_rudis,Rajiformes,Rajiformes,Arhynchobatidae,Psammobatis,Bat,Extant,Psamm_rud,Shelf,Undul
+Psammobatis scobina ,Psammobatis_scobina,Rajiformes,Rajiformes,Arhynchobatidae,Psammobatis,Bat,Extant,Psamm_sco,Shelf,Undul
+Pseudoraja fischeri ,Pseudoraja_fischeri,Rajiformes,Rajiformes,Arhynchobatidae,Pseudoraja,Bat,Extant,Psraj_fis,Deep,Undul
+Pseudorhina acanthoderma,Pseudorhina_acanthoderma,JrSqua,Squatiniformes,,Pseudorhina,Sel,Fossil,Prhin_aca,Reef,AxUnd
+Pseudorhina alifera,Pseudorhina_alifera,JrSqua,Squatiniformes,,Pseudorhina,Sel,Fossil,Prhin_ali,Reef,AxUnd
+Aetomylaeus asperrimus,Pteromylaeus_asperrimus,Myliobatiformes,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_asp,Shelf,Oscil
+Aetomylaeus bovinus,Pteromylaeus_bovinus,Myliobatiformes,Myliobatiformes,Myliobatidae,Aetomylaeus,Bat,Extant,Aetom_bov,Shelf,Oscil
+Ptychotrygon rostrispatula,Ptychotrygon_rostrispatula,CrScle,Schlerorhynch,,Ptychotrygon,Bat,Fossil,Ptych_ros,Shelf,AxUnd
+Raja clavata ,Raja_clavata,Rajiformes,Rajiformes,Rajidae,Raja,Bat,Extant,Raja_clav,Deep,Undul
+Rostroraja eglanteria,Raja_eglanteria,Rajiformes,Rajiformes,Rajidae,Rostroraja,Bat,Extant,Rostr_egl,Shelf,Undul
+Rostroraja equatorialis ,Raja_equatorialis,Rajiformes,Rajiformes,Rajidae,Rostroraja,Bat,Extant,Rostr_equ,Shelf,Undul
+Caliraja rhina ,Raja_rhina,Rajiformes,Rajiformes,Rajidae,Caliraja,Bat,Extant,Calir_rhi,Deep,Undul
+Caliraja stellulata,Raja_stellulata,Rajiformes,Rajiformes,Rajidae,Raja,Bat,Extant,Calir_ste,Deep,Undul
+Rajella bigelowi ,Rajella_bigelowi,Rajiformes,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_big,Deep,Undul
+Rajella caudaspinosa ,Rajella_caudaspinosa,Rajiformes,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_cau,Deep,Undul
+Rajella eisenhardti,Rajella_eisenhardti,Rajiformes,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_eis,Deep,Undul
+Rajella fuliginea ,Rajella_fuliginea,Rajiformes,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_ful,Deep,Undul
+Rajella nigerrima ,Rajella_nigerrima,Rajiformes,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_nig,Deep,Undul
+Rajella purpiriventralis,Rajella_purpuriventralis,Rajiformes,Rajiformes,Rajidae,Rajella,Bat,Extant,Rajel_pur,Deep,Undul
+Rhina ancylostomus ,Rhina_ancylostoma,Rhinopristiformes,Rhinopristiformes,Rhinidae,Rhina,Bat,Extant,Rhina_anc,Reef,AxUnd
+Rhinobatos annandalei ,Rhinobatos_annandalei,Rhinopristiformes,Rhinopristiformes,Rhinobatidae,Rhinobatos,Bat,Extant,Rhbat_ann,Shelf,AxUnd
+Pseudobatos glaucostigma ,Rhinobatos_glaucostigma,Rhinopristiformes,Rhinopristiformes,Rhinobatidae,Pseudobatos,Bat,Extant,Psbat_gla,Shelf,AxUnd
+Rhinobatos holcorhynchus ,Rhinobatos_holcorhynchus,Rhinopristiformes,Rhinopristiformes,Rhinobatidae,Rhinobatos,Bat,Extant,Rhbat_hol,Shelf,AxUnd
+Rhinobatos lionotus ,Rhinobatos_lionotus,Rhinopristiformes,Rhinopristiformes,Rhinobatidae,Rhinobatos,Bat,Extant,Rhbat_lio,Shelf,AxUnd
+Rhinobatos maronita,Rhinobatos_maronita,CrRhin,Rhinopristiformes,,Rhinobatos,Bat,Fossil,Rhbat_mar,Shelf,AxUnd
+Pseudobatos percellens ,Rhinobatos_percellens,Rhinopristiformes,Rhinopristiformes,Rhinobatidae,Pseudobatos,Bat,Extant,Psbat_per,Shelf,AxUnd
+Rhinobatos rhinobatos ,Rhinobatos_rhinobatos,Rhinopristiformes,Rhinopristiformes,Rhinobatidae,Rhinobatos,Bat,Extant,Rhbat_rhi,Shelf,AxUnd
+Rhinobatos whitfieldy,Rhinobatos_whitfieldy,CrRhin,Rhinopristiformes,,Rhinobatos,Bat,Fossil,Rhbat_whi,Shelf,AxUnd
+Rhinobatos hakelensis,Rhinobatus_haeckelensis,CrRhin,Rhinopristiformes,,Rhinobatos,Bat,Fossil,Rhbat_hak,Shelf,AxUnd
+Rhinobatus latus,Rhinobatus_latus,CrRhin,Rhinopristiformes,,Rhinobatos,Bat,Fossil,Rhbat_lat,Shelf,AxUnd
+Rhinoptera bonasus,Rhinoptera_bonasus,Myliobatiformes,Myliobatiformes,Rhinopteridae,Rhinoptera,Bat,Extant,Rhino_bon,Shelf,Oscil
+Rhinoptera brasiliensis ,Rhinoptera_brasiliensis,Myliobatiformes,Myliobatiformes,Rhinopteridae,Rhinoptera,Bat,Extant,Rhpte_bra,Shelf,Oscil
+Bathyraja taranetzi ,Rhinoraja_taranetzi,Rajiformes,Rajiformes,Arhynchobatidae,Bathyraja,Bat,Extant,Bathy_tar,Deep,Undul
+Rhombopterygia rajoides,Rhombopterygia_rajoides,CrRhin,Rhinopristiformes,,Rhombopterygia,Bat,Fossil,Rhomb_raj,Shelf,AxUnd
+Rhynchobatus australiae ,Rhynchobatus_australiae,Rhinopristiformes,Rhinopristiformes,Rhinidae,Rhynchobatus,Bat,Extant,Rhync_aus,Reef,AxUnd
+Rhynchobatus djiddensis ,Rhynchobatus_djiddensis,Rhinopristiformes,Rhinopristiformes,Rhinidae,Rhynchobatus,Bat,Extant,Rhync_dji,Reef,AxUnd
+Rhynchobatus springeri ,Rhynchobatus_springeri,Rhinopristiformes,Rhinopristiformes,Rhinidae,Rhynchobatus,Bat,Extant,Rhync_spr,Shelf,AxUnd
+Sclerorhynchus atavus,Sclerorhynchus_atavus,CrScle,Schlerorhynch,,Sclerorhynchus,Bat,Fossil,Scler_ata,Shelf,AxUnd
+Sinobatis borneensis,Sinobatis_borneensis,Rajiformes,Rajiformes,Anacanthobatidae,Sinobatis,Bat,Extant,Sinob_bor,Deep,Undul
+Sinobatis melanosoma,Sinobatis_melanosoma,Rajiformes,Rajiformes,Anacanthobatidae,Sinobatis,Bat,Extant,Sinob_mel,Deep,Undul
+Spathobatis bugesiacus,Spathobatus,JrBat,JurBatoid,,Spathobatis,Bat,Fossil,Spath_bug,Shelf,AxUnd
+Squatina africana,Squatina_africana,Squatiniformes,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_afr,Shelf,AxUnd
+Squatina armata,Squatina_armata,Squatiniformes,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_arm,Shelf,AxUnd
+Squatina californica,Squatina_californica,Squatiniformes,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_cal,Shelf,AxUnd
+Squatina dumeril,Squatina_dumeril,Squatiniformes,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_dum,Deep,AxUnd
+Squatina nebulosa,Squatina_nebulosa,Squatiniformes,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_neb,Shelf,AxUnd
+Squatina squatina,Squatina_squatina,Squatiniformes,Squatiniformes,Squatinidae,Squatina,Sel,Extant,Squat_squ,Shelf,AxUnd
+Stahlraja sertanensis ,Stahlraja_sertanensis,CrRhin,Rhinopristiformes,,Stahlraja,Bat,Fossil,Stahl_ser,Shelf,AxUnd
+Sympterygia acuta,Sympterygia_acuta,Rajiformes,Rajiformes,Arhynchobatidae,Sympterygia,Bat,Extant,Sympt_acu,Shelf,Undul
+Taeniura lymma ,Taeniura_lymma,Myliobatiformes,Myliobatiformes,Dasyatidae,Taeniura,Bat,Extant,Taeni_lym,Reef,Undul
+Titanonarke molini ,Titanonarke_molini,EoTorp,Torpediniformes,,Titanonarke,Bat,Fossil,Titan_mol,Reef,AxUnd
+Tlalocbatos_applegatei,Tlalocbatus,CrRhin,Rhinopristiformes,,Tlalocbatos,Bat,Fossil,Tlalo_app,Reef,AxUnd
+Torpedo fuscomaculata ,Torpedo_fuscomaculata,Torpediniformes,Torpediniformes,Torpedinidae,Torpedo,Bat,Extant,Torpe_fus,Reef,AxUnd
+Torpedo mackayana ,Torpedo_mackayana,Torpediniformes,Torpediniformes,Torpedinidae,Torpedo,Bat,Extant,Torpe_mac,Shelf,AxUnd
+Tetronarce nobiliana ,Torpedo_nobiliana,Torpediniformes,Torpediniformes,Torpedinidae,Tetronarce,Bat,Extant,Tetro_nob,Shelf,AxUnd
+Torpedo torpedo,Torpedo_torpedo,Torpediniformes,Torpediniformes,Torpedinidae,Torpedo,Bat,Extant,Torpe_tor,Shelf,AxUnd
+Urobatis concentricus ,Urobatis_concentricus,Myliobatiformes,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_con,Reef,Undul
+Urobatis halleri ,Urobatis_halleri,Myliobatiformes,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_hal,Shelf,Undul
+Urobatis jamaicensis ,Urobatis_jamaicensis,Myliobatiformes,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_jam,Reef,Undul
+Urobatis maculatus ,Urobatis_maculatus,Myliobatiformes,Myliobatiformes,Urotrygonidae ,Urobatis,Bat,Extant,Uroba_mac,Shelf,Undul
+Urolophus aurantiacus ,Urolophus_aurantiacus,Myliobatiformes,Myliobatiformes,Urolophidae,Urolophus,Bat,Extant,Urolo_aur,Shelf,Undul
+Urolophus kaianus ,Urolophus_kaianus,Myliobatiformes,Myliobatiformes,Urolophidae,Urolophus,Bat,Extant,Urolo_kai,Deep,Undul
+Urotrygon aspidura ,Urotrygon_aspidura,Myliobatiformes,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_asp,Shelf,Undul
+Urotrygon chilensis ,Urotrygon_chilensis,Myliobatiformes,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_chi,Shelf,Undul
+Urotrygon microphthalmum ,Urotrygon_microphthalmum,Myliobatiformes,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_mic,Shelf,Undul
+Urotrygon munda ,Urotrygon_munda,Myliobatiformes,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_ast,Shelf,Undul
+Urotrygon rogersi ,Urotrygon_rogersi,Myliobatiformes,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_rog,Shelf,Undul
+Urotrygon simulatrix ,Urotrygon_simulatrix,Myliobatiformes,Myliobatiformes,Urotrygonidae ,Urotrygon,Bat,Extant,Urotr_sim,Shelf,Undul
+Zanobatus schoenleinii ,Zanobatus_schoenleinii,Myliobatiformes,Myliobatiformes,Zanobatidae,Zanobatus,Bat,Extant,Zanob_sch,Shelf,Undul
+Zapteryx exasperata ,Zapteryx_exasperata,Rhinopristiformes,Rhinopristiformes,Trygonorrhinidae ,Zapteryx,Bat,Extant,Zapte_exa,Reef,AxUnd
+Zapteryx xyster ,Zapteryx_xyster,Rhinopristiformes,Rhinopristiformes,Trygonorrhinidae ,Zapteryx,Bat,Extant,Zapte_xys,Reef,AxUnd
